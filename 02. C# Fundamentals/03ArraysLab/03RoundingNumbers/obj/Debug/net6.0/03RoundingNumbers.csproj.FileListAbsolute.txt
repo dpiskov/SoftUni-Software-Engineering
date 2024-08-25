@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\bin\Debug\net6.0\03RoundingNumbers.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\bin\Debug\net6.0\03RoundingNumbers.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\bin\Debug\net6.0\03RoundingNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\bin\Debug\net6.0\03RoundingNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\bin\Debug\net6.0\03RoundingNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\03RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\03RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\03RoundingNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\03RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\03RoundingNumbers.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\03RoundingNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\refint\03RoundingNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\03RoundingNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\03RoundingNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\03RoundingNumbers\obj\Debug\net6.0\ref\03RoundingNumbers.dll

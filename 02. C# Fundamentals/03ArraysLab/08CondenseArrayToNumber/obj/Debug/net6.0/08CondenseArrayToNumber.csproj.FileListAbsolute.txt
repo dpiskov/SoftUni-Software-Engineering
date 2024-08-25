@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\bin\Debug\net6.0\08CondenseArrayToNumber.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\bin\Debug\net6.0\08CondenseArrayToNumber.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\bin\Debug\net6.0\08CondenseArrayToNumber.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\bin\Debug\net6.0\08CondenseArrayToNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\bin\Debug\net6.0\08CondenseArrayToNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\08CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\08CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\08CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\08CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\08CondenseArrayToNumber.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\08CondenseArrayToNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\refint\08CondenseArrayToNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\08CondenseArrayToNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\08CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\08CondenseArrayToNumber\obj\Debug\net6.0\ref\08CondenseArrayToNumber.dll

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{653C4F0A-0530-4886-8317-F108D4D92DFD}|09SpiceMustFlow\\09SpiceMustFlow.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\02datatypesexercise\\09spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C4F0A-0530-4886-8317-F108D4D92DFD}|09SpiceMustFlow\\09SpiceMustFlow.csproj|solutionrelative:09spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B94CDFE-1803-4A05-93C7-D27EDEED488E}|08BeerKegs\\08BeerKegs.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\02datatypesexercise\\08beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B94CDFE-1803-4A05-93C7-D27EDEED488E}|08BeerKegs\\08BeerKegs.csproj|solutionrelative:08beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A682B258-4C8C-4236-8B22-68C82DCC3B05}|11Snowballs\\11Snowballs.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\02datatypesexercise\\11snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A682B258-4C8C-4236-8B22-68C82DCC3B05}|11Snowballs\\11Snowballs.csproj|solutionrelative:11snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{653C4F0A-0530-4886-8317-F108D4D92DFD}|09SpiceMustFlow\\09SpiceMustFlow.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\02datatypesexercise\\09spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{653C4F0A-0530-4886-8317-F108D4D92DFD}|09SpiceMustFlow\\09SpiceMustFlow.csproj|solutionrelative:09spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF0636A6-DE34-415A-9BF5-B5ADC618E803}|10PokeMon\\10PokeMon.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\02datatypesexercise\\10pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,25 +54,24 @@
               "RelativeToolTip": "10PokeMon\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T05:02:26.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T05:02:26.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\09SpiceMustFlow\\Program.cs",
               "RelativeDocumentMoniker": "09SpiceMustFlow\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\09SpiceMustFlow\\Program.cs",
               "RelativeToolTip": "09SpiceMustFlow\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T05:02:19.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\Program.cs",
               "RelativeDocumentMoniker": "08BeerKegs\\Program.cs",
@@ -85,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\11Snowballs\\Program.cs",
               "RelativeDocumentMoniker": "11Snowballs\\Program.cs",
@@ -93,8 +92,7 @@
               "RelativeToolTip": "11Snowballs\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T05:02:32.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T05:02:32.809Z"
             }
           ]
         }

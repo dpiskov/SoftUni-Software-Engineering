@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\bin\Debug\net6.0\06EvenAndOddSubtraction.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\bin\Debug\net6.0\06EvenAndOddSubtraction.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\bin\Debug\net6.0\06EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\bin\Debug\net6.0\06EvenAndOddSubtraction.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\bin\Debug\net6.0\06EvenAndOddSubtraction.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\06EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\06EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\06EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\06EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\06EvenAndOddSubtraction.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\06EvenAndOddSubtraction.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\refint\06EvenAndOddSubtraction.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\06EvenAndOddSubtraction.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\06EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\06EvenAndOddSubtraction\obj\Debug\net6.0\ref\06EvenAndOddSubtraction.dll

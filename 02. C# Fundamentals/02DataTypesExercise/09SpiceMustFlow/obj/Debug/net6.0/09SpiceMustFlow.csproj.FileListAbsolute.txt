@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\bin\Debug\net6.0\09SpiceMustFlow.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\bin\Debug\net6.0\09SpiceMustFlow.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\bin\Debug\net6.0\09SpiceMustFlow.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\bin\Debug\net6.0\09SpiceMustFlow.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\bin\Debug\net6.0\09SpiceMustFlow.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\09SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\09SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\09SpiceMustFlow.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\09SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\09SpiceMustFlow.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\09SpiceMustFlow.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\refint\09SpiceMustFlow.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\09SpiceMustFlow.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\09SpiceMustFlow.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\09SpiceMustFlow\obj\Debug\net6.0\ref\09SpiceMustFlow.dll

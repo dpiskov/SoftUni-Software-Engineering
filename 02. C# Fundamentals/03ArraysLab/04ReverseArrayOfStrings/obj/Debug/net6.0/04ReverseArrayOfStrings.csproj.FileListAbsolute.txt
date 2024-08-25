@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\bin\Debug\net6.0\04ReverseArrayOfStrings.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\bin\Debug\net6.0\04ReverseArrayOfStrings.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\bin\Debug\net6.0\04ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\bin\Debug\net6.0\04ReverseArrayOfStrings.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\bin\Debug\net6.0\04ReverseArrayOfStrings.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\04ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\04ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\04ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\04ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\04ReverseArrayOfStrings.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\04ReverseArrayOfStrings.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\refint\04ReverseArrayOfStrings.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\04ReverseArrayOfStrings.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\04ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\04ReverseArrayOfStrings\obj\Debug\net6.0\ref\04ReverseArrayOfStrings.dll

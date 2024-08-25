@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\net6.0\02PrintNumbersInReverseOrder.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\net6.0\02PrintNumbersInReverseOrder.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\net6.0\02PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\net6.0\02PrintNumbersInReverseOrder.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\net6.0\02PrintNumbersInReverseOrder.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\02PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\02PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\02PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\02PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\02PrintNumbersInReverseOrder.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\02PrintNumbersInReverseOrder.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\refint\02PrintNumbersInReverseOrder.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\02PrintNumbersInReverseOrder.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\02PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\net6.0\ref\02PrintNumbersInReverseOrder.dll

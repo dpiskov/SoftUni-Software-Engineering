@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09SpiceMustFlow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baf70746c6c06f5085a80c5c45299bf5c1490db3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+042bf8a0b7e822cd212329172ce2719e342e4c3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("09SpiceMustFlow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09SpiceMustFlow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

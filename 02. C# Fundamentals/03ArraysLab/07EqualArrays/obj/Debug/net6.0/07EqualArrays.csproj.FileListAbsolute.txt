@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\bin\Debug\net6.0\07EqualArrays.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\bin\Debug\net6.0\07EqualArrays.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\bin\Debug\net6.0\07EqualArrays.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\bin\Debug\net6.0\07EqualArrays.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\bin\Debug\net6.0\07EqualArrays.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\07EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\07EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\07EqualArrays.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\07EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\07EqualArrays.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\07EqualArrays.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\refint\07EqualArrays.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\07EqualArrays.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\07EqualArrays.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysLab\07EqualArrays\obj\Debug\net6.0\ref\07EqualArrays.dll
