@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\09CharsToString.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\09CharsToString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\09CharsToString.csproj": {
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\09CharsToString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\09CharsToString.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\09CharsToString.csproj",
         "projectName": "09CharsToString",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\09CharsToString.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\09CharsToString.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

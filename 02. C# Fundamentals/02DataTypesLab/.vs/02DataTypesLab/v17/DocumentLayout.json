@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90293C3D-3F19-4E6B-8F9A-B00B4EE6EB9A}|08TownInfo\\08TownInfo.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypeslab\\08towninfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90293C3D-3F19-4E6B-8F9A-B00B4EE6EB9A}|08TownInfo\\08TownInfo.csproj|solutionrelative:08towninfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EB817F7-3E79-418E-97DD-EFE35B79FEB2}|10LowerOrUpper\\10LowerOrUpper.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\02datatypeslab\\10lowerorupper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB817F7-3E79-418E-97DD-EFE35B79FEB2}|10LowerOrUpper\\10LowerOrUpper.csproj|solutionrelative:10lowerorupper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EE4313-7D03-44C8-AE50-355438D1E0DF}|04CenturiesToMinutes\\04CenturiesToMinutes.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypeslab\\04centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2EE4313-7D03-44C8-AE50-355438D1E0DF}|04CenturiesToMinutes\\04CenturiesToMinutes.csproj|solutionrelative:04centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55962A74-AA6D-4B3C-851A-46C99D78FAA1}|12RefactorSpecialNumbers\\12RefactorSpecialNumbers.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypeslab\\12refactorspecialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55962A74-AA6D-4B3C-851A-46C99D78FAA1}|12RefactorSpecialNumbers\\12RefactorSpecialNumbers.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\02datatypeslab\\12refactorspecialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55962A74-AA6D-4B3C-851A-46C99D78FAA1}|12RefactorSpecialNumbers\\12RefactorSpecialNumbers.csproj|solutionrelative:12refactorspecialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{439C06B5-BD8D-4A54-A04C-F4953AEFE187}|11RefactorVolumeOfPyramid\\11RefactorVolumeOfPyramid.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypeslab\\11refactorvolumeofpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{439C06B5-BD8D-4A54-A04C-F4953AEFE187}|11RefactorVolumeOfPyramid\\11RefactorVolumeOfPyramid.csproj|solutionrelative:11refactorvolumeofpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC4F32D2-1E1D-4122-996B-B28AF3984983}|09CharsToString\\09CharsToString.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypeslab\\09charstostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4F32D2-1E1D-4122-996B-B28AF3984983}|09CharsToString\\09CharsToString.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\02datatypeslab\\09charstostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4F32D2-1E1D-4122-996B-B28AF3984983}|09CharsToString\\09CharsToString.csproj|solutionrelative:09charstostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB817F7-3E79-418E-97DD-EFE35B79FEB2}|10LowerOrUpper\\10LowerOrUpper.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypeslab\\10lowerorupper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB817F7-3E79-418E-97DD-EFE35B79FEB2}|10LowerOrUpper\\10LowerOrUpper.csproj|solutionrelative:10lowerorupper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,34 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\Program.cs",
-              "RelativeDocumentMoniker": "08TownInfo\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\Program.cs",
-              "RelativeToolTip": "08TownInfo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T04:55:25.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\04CenturiesToMinutes\\Program.cs",
-              "RelativeDocumentMoniker": "04CenturiesToMinutes\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\04CenturiesToMinutes\\Program.cs",
-              "RelativeToolTip": "04CenturiesToMinutes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T04:45:35.165Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -80,37 +42,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\12RefactorSpecialNumbers\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\12RefactorSpecialNumbers\\Program.cs",
               "RelativeDocumentMoniker": "12RefactorSpecialNumbers\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\12RefactorSpecialNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\12RefactorSpecialNumbers\\Program.cs",
               "RelativeToolTip": "12RefactorSpecialNumbers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T04:15:20.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\11RefactorVolumeOfPyramid\\Program.cs",
-              "RelativeDocumentMoniker": "11RefactorVolumeOfPyramid\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\11RefactorVolumeOfPyramid\\Program.cs",
-              "RelativeToolTip": "11RefactorVolumeOfPyramid\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T04:15:14.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\10LowerOrUpper\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\10LowerOrUpper\\Program.cs",
               "RelativeDocumentMoniker": "10LowerOrUpper\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\10LowerOrUpper\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\10LowerOrUpper\\Program.cs",
               "RelativeToolTip": "10LowerOrUpper\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,16 +68,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\Program.cs",
               "RelativeDocumentMoniker": "09CharsToString\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\09CharsToString\\Program.cs",
               "RelativeToolTip": "09CharsToString\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T04:14:59.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T04:14:59.579Z"
             }
           ]
         }

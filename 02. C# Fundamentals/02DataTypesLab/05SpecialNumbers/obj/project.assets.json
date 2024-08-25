@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\05SpecialNumbers\\05SpecialNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\05SpecialNumbers\\05SpecialNumbers.csproj",
       "projectName": "05SpecialNumbers",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\05SpecialNumbers\\05SpecialNumbers.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\05SpecialNumbers\\05SpecialNumbers.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\05SpecialNumbers\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\05SpecialNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\08TownInfo.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\08TownInfo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\08TownInfo.csproj": {
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\08TownInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\08TownInfo.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\08TownInfo.csproj",
         "projectName": "08TownInfo",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\08TownInfo.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\08TownInfo.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\08TownInfo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

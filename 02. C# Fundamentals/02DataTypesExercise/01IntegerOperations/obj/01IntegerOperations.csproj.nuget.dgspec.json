@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\01IntegerOperations.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\01IntegerOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\01IntegerOperations.csproj": {
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\01IntegerOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\01IntegerOperations.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\01IntegerOperations.csproj",
         "projectName": "01IntegerOperations",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\01IntegerOperations.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\01IntegerOperations.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

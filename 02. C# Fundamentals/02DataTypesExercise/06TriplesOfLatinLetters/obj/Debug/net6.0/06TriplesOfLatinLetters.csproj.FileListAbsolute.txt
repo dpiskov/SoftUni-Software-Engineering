@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\bin\Debug\net6.0\06TriplesOfLatinLetters.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\bin\Debug\net6.0\06TriplesOfLatinLetters.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\bin\Debug\net6.0\06TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\bin\Debug\net6.0\06TriplesOfLatinLetters.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\bin\Debug\net6.0\06TriplesOfLatinLetters.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\06TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\06TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\06TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\06TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\06TriplesOfLatinLetters.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\06TriplesOfLatinLetters.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\refint\06TriplesOfLatinLetters.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\06TriplesOfLatinLetters.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\06TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\06TriplesOfLatinLetters\obj\Debug\net6.0\ref\06TriplesOfLatinLetters.dll

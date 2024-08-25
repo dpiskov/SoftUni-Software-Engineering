@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\bin\Debug\net6.0\04SumOfChars.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\bin\Debug\net6.0\04SumOfChars.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\bin\Debug\net6.0\04SumOfChars.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\bin\Debug\net6.0\04SumOfChars.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\bin\Debug\net6.0\04SumOfChars.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\04SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\04SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\04SumOfChars.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\04SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\04SumOfChars.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\04SumOfChars.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\refint\04SumOfChars.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\04SumOfChars.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\04SumOfChars.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\02DataTypesExercise\04SumOfChars\obj\Debug\net6.0\ref\04SumOfChars.dll

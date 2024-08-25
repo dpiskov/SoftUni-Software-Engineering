@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\07ConcatNames.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\07ConcatNames.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\07ConcatNames.csproj": {
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\07ConcatNames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\07ConcatNames.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\07ConcatNames.csproj",
         "projectName": "07ConcatNames",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\07ConcatNames.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\07ConcatNames.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesLab\\07ConcatNames\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

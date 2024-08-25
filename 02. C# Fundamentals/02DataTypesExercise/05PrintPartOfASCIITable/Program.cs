@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int start = int.Parse(Console.ReadLine());
+            int end = int.Parse(Console.ReadLine());
+
+            string result = string.Empty;
+
+            for (int i = start; i <= end; i++)
+            {
+                result += (char)i + " ";
+            }
+
+            Console.WriteLine(result.TrimEnd());
         }
     }
 }

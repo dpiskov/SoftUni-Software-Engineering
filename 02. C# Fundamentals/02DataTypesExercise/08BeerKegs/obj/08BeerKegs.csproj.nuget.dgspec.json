@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\08BeerKegs.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\08BeerKegs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\08BeerKegs.csproj": {
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\08BeerKegs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\08BeerKegs.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\08BeerKegs.csproj",
         "projectName": "08BeerKegs",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\08BeerKegs.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\08BeerKegs.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
