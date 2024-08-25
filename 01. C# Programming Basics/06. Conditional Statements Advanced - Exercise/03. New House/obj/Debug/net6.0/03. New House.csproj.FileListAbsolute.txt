@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\refint\03. New House.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\ref\03. New House.dll

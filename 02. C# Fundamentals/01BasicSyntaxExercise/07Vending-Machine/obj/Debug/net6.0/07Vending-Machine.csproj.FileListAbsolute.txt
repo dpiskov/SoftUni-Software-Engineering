@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\bin\Debug\net6.0\07Vending-Machine.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\bin\Debug\net6.0\07Vending-Machine.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\bin\Debug\net6.0\07Vending-Machine.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\bin\Debug\net6.0\07Vending-Machine.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\bin\Debug\net6.0\07Vending-Machine.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\obj\Debug\net6.0\07Vending-Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\obj\Debug\net6.0\07Vending-Machine.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\obj\Debug\net6.0\07Vending-Machine.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\obj\Debug\net6.0\07Vending-Machine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\obj\Debug\net6.0\07Vending-Machine.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\obj\Debug\net6.0\refint\07Vending-Machine.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\obj\Debug\net6.0\07Vending-Machine.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\obj\Debug\net6.0\07Vending-Machine.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\07Vending-Machine\obj\Debug\net6.0\ref\07Vending-Machine.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\bin\Debug\net6.0\07ConcatNames.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\bin\Debug\net6.0\07ConcatNames.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\bin\Debug\net6.0\07ConcatNames.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\bin\Debug\net6.0\07ConcatNames.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\bin\Debug\net6.0\07ConcatNames.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\obj\Debug\net6.0\07ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\obj\Debug\net6.0\07ConcatNames.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\obj\Debug\net6.0\07ConcatNames.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\obj\Debug\net6.0\07ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\obj\Debug\net6.0\07ConcatNames.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\obj\Debug\net6.0\refint\07ConcatNames.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\obj\Debug\net6.0\07ConcatNames.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\obj\Debug\net6.0\07ConcatNames.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\07ConcatNames\obj\Debug\net6.0\ref\07ConcatNames.dll

@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\bin\Debug\net6.0\01. Excellent Result.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\bin\Debug\net6.0\01. Excellent Result.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\bin\Debug\net6.0\01. Excellent Result.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\bin\Debug\net6.0\01. Excellent Result.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\bin\Debug\net6.0\01. Excellent Result.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\obj\Debug\net6.0\01. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\obj\Debug\net6.0\01. Excellent Result.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\obj\Debug\net6.0\01. Excellent Result.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\obj\Debug\net6.0\01. Excellent Result.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\obj\Debug\net6.0\01. Excellent Result.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\obj\Debug\net6.0\refint\01. Excellent Result.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\obj\Debug\net6.0\01. Excellent Result.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\obj\Debug\net6.0\01. Excellent Result.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\01. Excellent Result\obj\Debug\net6.0\ref\01. Excellent Result.dll

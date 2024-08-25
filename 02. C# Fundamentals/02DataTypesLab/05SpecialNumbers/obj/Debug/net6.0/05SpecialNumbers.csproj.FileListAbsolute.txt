@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\bin\Debug\net6.0\05SpecialNumbers.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\bin\Debug\net6.0\05SpecialNumbers.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\bin\Debug\net6.0\05SpecialNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\bin\Debug\net6.0\05SpecialNumbers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\bin\Debug\net6.0\05SpecialNumbers.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\obj\Debug\net6.0\05SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\obj\Debug\net6.0\05SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\obj\Debug\net6.0\05SpecialNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\obj\Debug\net6.0\05SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\obj\Debug\net6.0\05SpecialNumbers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\obj\Debug\net6.0\refint\05SpecialNumbers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\obj\Debug\net6.0\05SpecialNumbers.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\obj\Debug\net6.0\05SpecialNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\05SpecialNumbers\obj\Debug\net6.0\ref\05SpecialNumbers.dll

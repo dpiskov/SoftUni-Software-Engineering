@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\refint\03. Deposit Calculator.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\ref\03. Deposit Calculator.dll

@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net6.0\04. Vacation Books List.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net6.0\04. Vacation Books List.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net6.0\04. Vacation Books List.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net6.0\04. Vacation Books List.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\bin\Debug\net6.0\04. Vacation Books List.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net6.0\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net6.0\04. Vacation Books List.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net6.0\04. Vacation Books List.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net6.0\04. Vacation Books List.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net6.0\04. Vacation Books List.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net6.0\refint\04. Vacation Books List.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net6.0\04. Vacation Books List.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net6.0\04. Vacation Books List.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\04. Vacation Books List\obj\Debug\net6.0\ref\04. Vacation Books List.dll

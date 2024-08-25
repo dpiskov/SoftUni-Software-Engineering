@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net6.0\06. Concatenate Data.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net6.0\refint\06. Concatenate Data.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net6.0\06. Concatenate Data.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net6.0\ref\06. Concatenate Data.dll

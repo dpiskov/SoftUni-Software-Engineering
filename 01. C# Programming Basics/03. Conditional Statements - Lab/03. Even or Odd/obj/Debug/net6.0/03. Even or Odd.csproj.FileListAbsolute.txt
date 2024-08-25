@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\obj\Debug\net6.0\refint\03. Even or Odd.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\03. Even or Odd\obj\Debug\net6.0\ref\03. Even or Odd.dll

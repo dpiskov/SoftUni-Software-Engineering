@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\bin\Debug\net6.0\08Triangle-of-Numbers.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\bin\Debug\net6.0\08Triangle-of-Numbers.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\bin\Debug\net6.0\08Triangle-of-Numbers.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\bin\Debug\net6.0\08Triangle-of-Numbers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\bin\Debug\net6.0\08Triangle-of-Numbers.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\obj\Debug\net6.0\08Triangle-of-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\obj\Debug\net6.0\08Triangle-of-Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\obj\Debug\net6.0\08Triangle-of-Numbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\obj\Debug\net6.0\08Triangle-of-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\obj\Debug\net6.0\08Triangle-of-Numbers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\obj\Debug\net6.0\refint\08Triangle-of-Numbers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\obj\Debug\net6.0\08Triangle-of-Numbers.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\obj\Debug\net6.0\08Triangle-of-Numbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\08Triangle-of-Numbers\obj\Debug\net6.0\ref\08Triangle-of-Numbers.dll

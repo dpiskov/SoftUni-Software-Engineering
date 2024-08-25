@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net6.0\09. Yard Greening.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\refint\09. Yard Greening.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\09. Yard Greening.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net6.0\ref\09. Yard Greening.dll

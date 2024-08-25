@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\bin\Debug\net6.0\2Stack Sum.exe
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\bin\Debug\net6.0\2Stack Sum.deps.json
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\bin\Debug\net6.0\2Stack Sum.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\bin\Debug\net6.0\2Stack Sum.dll
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\bin\Debug\net6.0\2Stack Sum.pdb
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\obj\Debug\net6.0\2Stack Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\obj\Debug\net6.0\2Stack Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\obj\Debug\net6.0\2Stack Sum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\obj\Debug\net6.0\2Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\obj\Debug\net6.0\2Stack Sum.dll
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\obj\Debug\net6.0\refint\2Stack Sum.dll
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\obj\Debug\net6.0\2Stack Sum.pdb
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\obj\Debug\net6.0\2Stack Sum.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\2Stack Sum\obj\Debug\net6.0\ref\2Stack Sum.dll

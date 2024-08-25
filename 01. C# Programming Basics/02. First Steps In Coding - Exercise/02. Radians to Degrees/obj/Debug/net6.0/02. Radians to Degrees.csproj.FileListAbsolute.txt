@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\refint\02. Radians to Degrees.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\ref\02. Radians to Degrees.dll

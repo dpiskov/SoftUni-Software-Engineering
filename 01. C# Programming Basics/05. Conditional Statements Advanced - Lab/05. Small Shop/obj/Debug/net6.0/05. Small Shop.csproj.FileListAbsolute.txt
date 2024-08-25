@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net6.0\05. Small Shop.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net6.0\05. Small Shop.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net6.0\05. Small Shop.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net6.0\05. Small Shop.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net6.0\05. Small Shop.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net6.0\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net6.0\05. Small Shop.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net6.0\05. Small Shop.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net6.0\05. Small Shop.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net6.0\05. Small Shop.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net6.0\refint\05. Small Shop.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net6.0\05. Small Shop.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net6.0\05. Small Shop.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net6.0\ref\05. Small Shop.dll

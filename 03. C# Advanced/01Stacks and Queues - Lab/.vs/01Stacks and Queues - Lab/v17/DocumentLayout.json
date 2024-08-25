@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC28F9-2569-4CD1-AEB6-7BC12B3A9D58}|2Stack Sum\\2Stack Sum.csproj|c:\\users\\admin\\desktop\\github\\03. c# advanced\\01stacks and queues - lab\\2stack sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AC28F9-2569-4CD1-AEB6-7BC12B3A9D58}|2Stack Sum\\2Stack Sum.csproj|solutionrelative:2stack sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2C7568-C301-41E0-8EAB-C6FBFB6D7623}|1Reverse a String\\1Reverse a String.csproj|c:\\users\\admin\\desktop\\github\\03. c# advanced\\01stacks and queues - lab\\1reverse a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2C7568-C301-41E0-8EAB-C6FBFB6D7623}|1Reverse a String\\1Reverse a String.csproj|solutionrelative:1reverse a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1493EC-8A2C-4508-A2A4-D6631562101D}|8Traffic Jam\\8Traffic Jam.csproj|c:\\users\\admin\\desktop\\github\\03. c# advanced\\01stacks and queues - lab\\8traffic jam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1493EC-8A2C-4508-A2A4-D6631562101D}|8Traffic Jam\\8Traffic Jam.csproj|solutionrelative:8traffic jam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A2B347-F9AB-4B21-B53B-8DDC1913C87B}|7Hot Potato\\7Hot Potato.csproj|c:\\users\\admin\\desktop\\github\\03. c# advanced\\01stacks and queues - lab\\7hot potato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A2B347-F9AB-4B21-B53B-8DDC1913C87B}|7Hot Potato\\7Hot Potato.csproj|solutionrelative:7hot potato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715B70F-4B5D-4B3C-A7C3-0C360EEFA74C}|6Supermarket\\6Supermarket.csproj|c:\\users\\admin\\desktop\\github\\03. c# advanced\\01stacks and queues - lab\\6supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715B70F-4B5D-4B3C-A7C3-0C360EEFA74C}|6Supermarket\\6Supermarket.csproj|solutionrelative:6supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0906A16-28FF-4E4E-AE61-702CEB797F1E}|5Print Even Numbers\\5Print Even Numbers.csproj|c:\\users\\admin\\desktop\\github\\03. c# advanced\\01stacks and queues - lab\\5print even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0906A16-28FF-4E4E-AE61-702CEB797F1E}|5Print Even Numbers\\5Print Even Numbers.csproj|solutionrelative:5print even numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2B7FCA-9C4E-4843-A4CA-F0414832B966}|4Matching Brackets\\4Matching Brackets.csproj|c:\\users\\admin\\desktop\\github\\03. c# advanced\\01stacks and queues - lab\\4matching brackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2B7FCA-9C4E-4843-A4CA-F0414832B966}|4Matching Brackets\\4Matching Brackets.csproj|solutionrelative:4matching brackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5292D7D4-D93A-4169-A098-46D23E11AAB9}|3Simple Calculator\\3Simple Calculator.csproj|c:\\users\\admin\\desktop\\github\\03. c# advanced\\01stacks and queues - lab\\3simple calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5292D7D4-D93A-4169-A098-46D23E11AAB9}|3Simple Calculator\\3Simple Calculator.csproj|solutionrelative:3simple calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\2Stack Sum\\Program.cs",
+              "RelativeDocumentMoniker": "2Stack Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\2Stack Sum\\Program.cs",
+              "RelativeToolTip": "2Stack Sum\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:11:01.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\7Hot Potato\\Program.cs",
+              "RelativeDocumentMoniker": "7Hot Potato\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\7Hot Potato\\Program.cs",
+              "RelativeToolTip": "7Hot Potato\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:12:10.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\6Supermarket\\Program.cs",
+              "RelativeDocumentMoniker": "6Supermarket\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\6Supermarket\\Program.cs",
+              "RelativeToolTip": "6Supermarket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:11:57.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\8Traffic Jam\\Program.cs",
+              "RelativeDocumentMoniker": "8Traffic Jam\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\8Traffic Jam\\Program.cs",
+              "RelativeToolTip": "8Traffic Jam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:12:24.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\5Print Even Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "5Print Even Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\5Print Even Numbers\\Program.cs",
+              "RelativeToolTip": "5Print Even Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:11:42.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\4Matching Brackets\\Program.cs",
+              "RelativeDocumentMoniker": "4Matching Brackets\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\4Matching Brackets\\Program.cs",
+              "RelativeToolTip": "4Matching Brackets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:11:30.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\3Simple Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "3Simple Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\3Simple Calculator\\Program.cs",
+              "RelativeToolTip": "3Simple Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:11:18.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\1Reverse a String\\Program.cs",
+              "RelativeDocumentMoniker": "1Reverse a String\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\03. C# Advanced\\01Stacks and Queues - Lab\\1Reverse a String\\Program.cs",
+              "RelativeToolTip": "1Reverse a String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:09:59.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

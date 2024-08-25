@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\refint\02. Summer Outfit.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\ref\02. Summer Outfit.dll

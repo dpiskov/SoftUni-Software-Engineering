@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\bin\Debug\net6.0\06Foreign Languages.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\bin\Debug\net6.0\06Foreign Languages.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\bin\Debug\net6.0\06Foreign Languages.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\bin\Debug\net6.0\06Foreign Languages.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\bin\Debug\net6.0\06Foreign Languages.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\obj\Debug\net6.0\06Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\obj\Debug\net6.0\06Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\obj\Debug\net6.0\06Foreign Languages.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\obj\Debug\net6.0\06Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\obj\Debug\net6.0\06Foreign Languages.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\obj\Debug\net6.0\refint\06Foreign Languages.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\obj\Debug\net6.0\06Foreign Languages.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\obj\Debug\net6.0\06Foreign Languages.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\06Foreign Languages\obj\Debug\net6.0\ref\06Foreign Languages.dll

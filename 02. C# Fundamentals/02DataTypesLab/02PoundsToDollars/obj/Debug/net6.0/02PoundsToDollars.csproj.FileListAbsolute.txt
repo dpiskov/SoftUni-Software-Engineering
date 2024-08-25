@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\bin\Debug\net6.0\02PoundsToDollars.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\bin\Debug\net6.0\02PoundsToDollars.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\bin\Debug\net6.0\02PoundsToDollars.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\bin\Debug\net6.0\02PoundsToDollars.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\bin\Debug\net6.0\02PoundsToDollars.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\obj\Debug\net6.0\02PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\obj\Debug\net6.0\02PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\obj\Debug\net6.0\02PoundsToDollars.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\obj\Debug\net6.0\02PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\obj\Debug\net6.0\02PoundsToDollars.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\obj\Debug\net6.0\refint\02PoundsToDollars.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\obj\Debug\net6.0\02PoundsToDollars.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\obj\Debug\net6.0\02PoundsToDollars.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\02PoundsToDollars\obj\Debug\net6.0\ref\02PoundsToDollars.dll

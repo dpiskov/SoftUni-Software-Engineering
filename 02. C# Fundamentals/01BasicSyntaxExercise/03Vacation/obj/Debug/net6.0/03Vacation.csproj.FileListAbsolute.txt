@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\bin\Debug\net6.0\03Vacation.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\bin\Debug\net6.0\03Vacation.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\bin\Debug\net6.0\03Vacation.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\bin\Debug\net6.0\03Vacation.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\bin\Debug\net6.0\03Vacation.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\obj\Debug\net6.0\03Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\obj\Debug\net6.0\03Vacation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\obj\Debug\net6.0\03Vacation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\obj\Debug\net6.0\03Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\obj\Debug\net6.0\03Vacation.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\obj\Debug\net6.0\refint\03Vacation.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\obj\Debug\net6.0\03Vacation.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\obj\Debug\net6.0\03Vacation.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\03Vacation\obj\Debug\net6.0\ref\03Vacation.dll

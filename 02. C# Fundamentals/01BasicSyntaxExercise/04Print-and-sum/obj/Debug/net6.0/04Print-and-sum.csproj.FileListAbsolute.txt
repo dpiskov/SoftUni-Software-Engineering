@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\bin\Debug\net6.0\04Print-and-sum.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\bin\Debug\net6.0\04Print-and-sum.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\bin\Debug\net6.0\04Print-and-sum.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\bin\Debug\net6.0\04Print-and-sum.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\bin\Debug\net6.0\04Print-and-sum.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\obj\Debug\net6.0\04Print-and-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\obj\Debug\net6.0\04Print-and-sum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\obj\Debug\net6.0\04Print-and-sum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\obj\Debug\net6.0\04Print-and-sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\obj\Debug\net6.0\04Print-and-sum.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\obj\Debug\net6.0\refint\04Print-and-sum.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\obj\Debug\net6.0\04Print-and-sum.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\obj\Debug\net6.0\04Print-and-sum.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\04Print-and-sum\obj\Debug\net6.0\ref\04Print-and-sum.dll

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A682B258-4C8C-4236-8B22-68C82DCC3B05}|11Snowballs\\11Snowballs.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\11snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A682B258-4C8C-4236-8B22-68C82DCC3B05}|11Snowballs\\11Snowballs.csproj|solutionrelative:11snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0636A6-DE34-415A-9BF5-B5ADC618E803}|10PokeMon\\10PokeMon.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\10pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0636A6-DE34-415A-9BF5-B5ADC618E803}|10PokeMon\\10PokeMon.csproj|solutionrelative:10pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C4F0A-0530-4886-8317-F108D4D92DFD}|09SpiceMustFlow\\09SpiceMustFlow.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\09spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C4F0A-0530-4886-8317-F108D4D92DFD}|09SpiceMustFlow\\09SpiceMustFlow.csproj|solutionrelative:09spicemustflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B94CDFE-1803-4A05-93C7-D27EDEED488E}|08BeerKegs\\08BeerKegs.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\08beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B94CDFE-1803-4A05-93C7-D27EDEED488E}|08BeerKegs\\08BeerKegs.csproj|solutionrelative:08beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265E7448-5C57-45AC-A1EA-4C4CB2C4D1E7}|07WaterOverflow\\07WaterOverflow.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\07wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265E7448-5C57-45AC-A1EA-4C4CB2C4D1E7}|07WaterOverflow\\07WaterOverflow.csproj|solutionrelative:07wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D4CD38-9EB4-424C-993B-26A9D5B9516F}|06TriplesOfLatinLetters\\06TriplesOfLatinLetters.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\06triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D4CD38-9EB4-424C-993B-26A9D5B9516F}|06TriplesOfLatinLetters\\06TriplesOfLatinLetters.csproj|solutionrelative:06triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E1E23A-5126-4DA0-9831-9B272BE98F12}|05PrintPartOfASCIITable\\05PrintPartOfASCIITable.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\05printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E1E23A-5126-4DA0-9831-9B272BE98F12}|05PrintPartOfASCIITable\\05PrintPartOfASCIITable.csproj|solutionrelative:05printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D0B048-30BF-4436-B5AE-311146F59182}|04SumOfChars\\04SumOfChars.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\04sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D0B048-30BF-4436-B5AE-311146F59182}|04SumOfChars\\04SumOfChars.csproj|solutionrelative:04sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F4F74D-E5BD-4B29-A84F-CBDB18DF17AB}|03Elevator\\03Elevator.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\03elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F4F74D-E5BD-4B29-A84F-CBDB18DF17AB}|03Elevator\\03Elevator.csproj|solutionrelative:03elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62AC7E-BD25-492F-A072-A9F14CCE0D7F}|02SumDigits\\02SumDigits.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\02sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62AC7E-BD25-492F-A072-A9F14CCE0D7F}|02SumDigits\\02SumDigits.csproj|solutionrelative:02sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005DF6D6-7BDC-44E3-A8CB-F7B577BC360E}|01IntegerOperations\\01IntegerOperations.csproj|c:\\users\\admin\\desktop\\github\\02. c# fundamentals\\02datatypesexercise\\01integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005DF6D6-7BDC-44E3-A8CB-F7B577BC360E}|01IntegerOperations\\01IntegerOperations.csproj|solutionrelative:01integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\11Snowballs\\Program.cs",
+              "RelativeDocumentMoniker": "11Snowballs\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\11Snowballs\\Program.cs",
+              "RelativeToolTip": "11Snowballs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:02:32.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\10PokeMon\\Program.cs",
+              "RelativeDocumentMoniker": "10PokeMon\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\10PokeMon\\Program.cs",
+              "RelativeToolTip": "10PokeMon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:02:26.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\09SpiceMustFlow\\Program.cs",
+              "RelativeDocumentMoniker": "09SpiceMustFlow\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\09SpiceMustFlow\\Program.cs",
+              "RelativeToolTip": "09SpiceMustFlow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:02:19.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\Program.cs",
+              "RelativeDocumentMoniker": "08BeerKegs\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\08BeerKegs\\Program.cs",
+              "RelativeToolTip": "08BeerKegs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:02:11.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\07WaterOverflow\\Program.cs",
+              "RelativeDocumentMoniker": "07WaterOverflow\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\07WaterOverflow\\Program.cs",
+              "RelativeToolTip": "07WaterOverflow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:02:02.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\06TriplesOfLatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "06TriplesOfLatinLetters\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\06TriplesOfLatinLetters\\Program.cs",
+              "RelativeToolTip": "06TriplesOfLatinLetters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:01:54.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\05PrintPartOfASCIITable\\Program.cs",
+              "RelativeDocumentMoniker": "05PrintPartOfASCIITable\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\05PrintPartOfASCIITable\\Program.cs",
+              "RelativeToolTip": "05PrintPartOfASCIITable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:01:47.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\04SumOfChars\\Program.cs",
+              "RelativeDocumentMoniker": "04SumOfChars\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\04SumOfChars\\Program.cs",
+              "RelativeToolTip": "04SumOfChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:01:40.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\03Elevator\\Program.cs",
+              "RelativeDocumentMoniker": "03Elevator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\03Elevator\\Program.cs",
+              "RelativeToolTip": "03Elevator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:01:31.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\02SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "02SumDigits\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\02SumDigits\\Program.cs",
+              "RelativeToolTip": "02SumDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:01:22.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\Program.cs",
+              "RelativeDocumentMoniker": "01IntegerOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GitHub\\02. C# Fundamentals\\02DataTypesExercise\\01IntegerOperations\\Program.cs",
+              "RelativeToolTip": "01IntegerOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:01:04.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

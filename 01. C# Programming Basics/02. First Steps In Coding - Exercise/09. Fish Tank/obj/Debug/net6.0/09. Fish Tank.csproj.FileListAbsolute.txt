@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net6.0\09. Fish Tank.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net6.0\refint\09. Fish Tank.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net6.0\09. Fish Tank.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\02. First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net6.0\ref\09. Fish Tank.dll

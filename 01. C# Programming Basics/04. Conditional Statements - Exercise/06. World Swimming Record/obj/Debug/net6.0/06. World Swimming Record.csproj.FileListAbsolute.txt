@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\refint\06. World Swimming Record.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\ref\06. World Swimming Record.dll

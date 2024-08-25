@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\bin\Debug\net6.0\03Passed or Failed.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\bin\Debug\net6.0\03Passed or Failed.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\bin\Debug\net6.0\03Passed or Failed.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\bin\Debug\net6.0\03Passed or Failed.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\bin\Debug\net6.0\03Passed or Failed.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\obj\Debug\net6.0\03Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\obj\Debug\net6.0\03Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\obj\Debug\net6.0\03Passed or Failed.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\obj\Debug\net6.0\03Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\obj\Debug\net6.0\03Passed or Failed.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\obj\Debug\net6.0\refint\03Passed or Failed.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\obj\Debug\net6.0\03Passed or Failed.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\obj\Debug\net6.0\03Passed or Failed.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\03Passed or Failed\obj\Debug\net6.0\ref\03Passed or Failed.dll

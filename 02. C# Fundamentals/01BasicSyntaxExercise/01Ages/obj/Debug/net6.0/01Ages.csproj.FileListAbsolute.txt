@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\bin\Debug\net6.0\01Ages.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\bin\Debug\net6.0\01Ages.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\bin\Debug\net6.0\01Ages.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\bin\Debug\net6.0\01Ages.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\bin\Debug\net6.0\01Ages.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\obj\Debug\net6.0\01Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\obj\Debug\net6.0\01Ages.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\obj\Debug\net6.0\01Ages.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\obj\Debug\net6.0\01Ages.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\obj\Debug\net6.0\01Ages.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\obj\Debug\net6.0\refint\01Ages.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\obj\Debug\net6.0\01Ages.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\obj\Debug\net6.0\01Ages.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.1BasicSyntaxExercise\01Ages\obj\Debug\net6.0\ref\01Ages.dll

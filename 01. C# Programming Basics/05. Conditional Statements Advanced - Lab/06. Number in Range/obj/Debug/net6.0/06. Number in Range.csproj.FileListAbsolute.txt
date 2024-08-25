@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net6.0\06. Number in Range.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net6.0\06. Number in Range.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net6.0\06. Number in Range.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net6.0\06. Number in Range.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\net6.0\06. Number in Range.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net6.0\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net6.0\06. Number in Range.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net6.0\06. Number in Range.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net6.0\06. Number in Range.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net6.0\06. Number in Range.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net6.0\refint\06. Number in Range.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net6.0\06. Number in Range.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net6.0\06. Number in Range.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\net6.0\ref\06. Number in Range.dll

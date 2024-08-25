@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\refint\01. Cinema.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\ref\01. Cinema.dll

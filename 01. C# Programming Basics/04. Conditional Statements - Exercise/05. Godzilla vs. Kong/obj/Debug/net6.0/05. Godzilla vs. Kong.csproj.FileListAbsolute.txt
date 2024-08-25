@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\refint\05. Godzilla vs. Kong.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\ref\05. Godzilla vs. Kong.dll

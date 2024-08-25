@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\refint\03. Rectangle Area.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\ref\03. Rectangle Area.dll

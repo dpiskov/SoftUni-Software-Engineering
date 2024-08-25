@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\bin\Debug\net6.0\09CharsToString.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\bin\Debug\net6.0\09CharsToString.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\bin\Debug\net6.0\09CharsToString.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\bin\Debug\net6.0\09CharsToString.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\bin\Debug\net6.0\09CharsToString.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\obj\Debug\net6.0\09CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\obj\Debug\net6.0\09CharsToString.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\obj\Debug\net6.0\09CharsToString.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\obj\Debug\net6.0\09CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\obj\Debug\net6.0\09CharsToString.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\obj\Debug\net6.0\refint\09CharsToString.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\obj\Debug\net6.0\09CharsToString.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\obj\Debug\net6.0\09CharsToString.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\09CharsToString\obj\Debug\net6.0\ref\09CharsToString.dll

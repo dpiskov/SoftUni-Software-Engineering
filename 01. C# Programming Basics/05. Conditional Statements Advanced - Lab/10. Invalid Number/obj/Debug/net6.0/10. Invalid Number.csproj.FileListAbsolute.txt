@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\refint\10. Invalid Number.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\ref\10. Invalid Number.dll

@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\refint\11. Fruit Shop.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\05. Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\ref\11. Fruit Shop.dll

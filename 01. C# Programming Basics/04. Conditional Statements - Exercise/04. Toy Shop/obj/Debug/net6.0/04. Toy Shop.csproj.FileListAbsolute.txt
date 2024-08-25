@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\refint\04. Toy Shop.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\ref\04. Toy Shop.dll

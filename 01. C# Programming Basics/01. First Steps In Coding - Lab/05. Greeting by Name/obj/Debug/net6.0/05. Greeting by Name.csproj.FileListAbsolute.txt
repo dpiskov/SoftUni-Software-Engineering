@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net6.0\05. Greeting by Name.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net6.0\05. Greeting by Name.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net6.0\05. Greeting by Name.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net6.0\05. Greeting by Name.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net6.0\05. Greeting by Name.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net6.0\05. Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net6.0\05. Greeting by Name.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net6.0\05. Greeting by Name.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net6.0\05. Greeting by Name.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net6.0\05. Greeting by Name.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net6.0\refint\05. Greeting by Name.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net6.0\05. Greeting by Name.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net6.0\05. Greeting by Name.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\01. First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net6.0\ref\05. Greeting by Name.dll

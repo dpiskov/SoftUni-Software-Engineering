@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\bin\Debug\net6.0\13Holidays Between Two Dates.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\bin\Debug\net6.0\13Holidays Between Two Dates.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\bin\Debug\net6.0\13Holidays Between Two Dates.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\bin\Debug\net6.0\13Holidays Between Two Dates.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\bin\Debug\net6.0\13Holidays Between Two Dates.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\obj\Debug\net6.0\13Holidays Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\obj\Debug\net6.0\13Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\obj\Debug\net6.0\13Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\obj\Debug\net6.0\13Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\obj\Debug\net6.0\13Holidays Between Two Dates.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\obj\Debug\net6.0\refint\13Holidays Between Two Dates.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\obj\Debug\net6.0\13Holidays Between Two Dates.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\obj\Debug\net6.0\13Holidays Between Two Dates.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\01.BasicSyntaxLab\13Holidays Between Two Dates\obj\Debug\net6.0\ref\13Holidays Between Two Dates.dll

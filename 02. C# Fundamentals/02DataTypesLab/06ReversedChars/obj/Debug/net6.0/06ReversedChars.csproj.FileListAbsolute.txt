@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\bin\Debug\net6.0\06ReversedChars.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\bin\Debug\net6.0\06ReversedChars.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\bin\Debug\net6.0\06ReversedChars.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\bin\Debug\net6.0\06ReversedChars.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\bin\Debug\net6.0\06ReversedChars.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\obj\Debug\net6.0\06ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\obj\Debug\net6.0\06ReversedChars.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\obj\Debug\net6.0\06ReversedChars.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\obj\Debug\net6.0\06ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\obj\Debug\net6.0\06ReversedChars.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\obj\Debug\net6.0\refint\06ReversedChars.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\obj\Debug\net6.0\06ReversedChars.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\obj\Debug\net6.0\06ReversedChars.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\06ReversedChars\obj\Debug\net6.0\ref\06ReversedChars.dll

@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7031FAB4-B489-49C9-9924-46289F42C1CC}|07. Working Hours\\07. Working Hours.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\07. working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7031FAB4-B489-49C9-9924-46289F42C1CC}|07. Working Hours\\07. Working Hours.csproj|solutionrelative:07. working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255EF144-74BB-4C58-B97F-B72C4C2421FF}|12. Trade Commissions\\12. Trade Commissions.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\12. trade commissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255EF144-74BB-4C58-B97F-B72C4C2421FF}|12. Trade Commissions\\12. Trade Commissions.csproj|solutionrelative:12. trade commissions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331A95FE-B357-4AF5-9D6E-F92EC241F396}|11. Fruit Shop\\11. Fruit Shop.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\11. fruit shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331A95FE-B357-4AF5-9D6E-F92EC241F396}|11. Fruit Shop\\11. Fruit Shop.csproj|solutionrelative:11. fruit shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA258E07-3D86-42F6-8B66-C0040BB8157E}|10. Invalid Number\\10. Invalid Number.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\10. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA258E07-3D86-42F6-8B66-C0040BB8157E}|10. Invalid Number\\10. Invalid Number.csproj|solutionrelative:10. invalid number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D58A0-41BA-4831-A867-432099A38388}|09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\09. fruit or vegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D58A0-41BA-4831-A867-432099A38388}|09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj|solutionrelative:09. fruit or vegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588AFED8-2F28-4DA9-A5F2-E2D4B98D8B4B}|08. Cinema Ticket\\08. Cinema Ticket.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\08. cinema ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588AFED8-2F28-4DA9-A5F2-E2D4B98D8B4B}|08. Cinema Ticket\\08. Cinema Ticket.csproj|solutionrelative:08. cinema ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122DA0C0-3441-4D26-AEF0-A805592F4698}|06. Number in Range\\06. Number in Range.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\06. number in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122DA0C0-3441-4D26-AEF0-A805592F4698}|06. Number in Range\\06. Number in Range.csproj|solutionrelative:06. number in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1DF283-CAAE-47E0-BE7C-6BAB83611EA8}|05. Small Shop\\05. Small Shop.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\05. small shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1DF283-CAAE-47E0-BE7C-6BAB83611EA8}|05. Small Shop\\05. Small Shop.csproj|solutionrelative:05. small shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B981A1-A9EF-45F2-B82F-99E7F6A1BD98}|04. Personal Titles\\04. Personal Titles.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\04. personal titles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B981A1-A9EF-45F2-B82F-99E7F6A1BD98}|04. Personal Titles\\04. Personal Titles.csproj|solutionrelative:04. personal titles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE433EE-B300-4F9F-8075-DE81F9F5732C}|03. Animal Type\\03. Animal Type.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\03. animal type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE433EE-B300-4F9F-8075-DE81F9F5732C}|03. Animal Type\\03. Animal Type.csproj|solutionrelative:03. animal type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B191A15-C6BE-4B8E-A0D3-8DDA17714274}|02. Weekend or Working Day\\02. Weekend or Working Day.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\02. weekend or working day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B191A15-C6BE-4B8E-A0D3-8DDA17714274}|02. Weekend or Working Day\\02. Weekend or Working Day.csproj|solutionrelative:02. weekend or working day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BBF18E-06D3-44A9-90A9-4F40B3FDDAA6}|01. Day of Week\\01. Day of Week.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\05. conditional statements advanced - lab\\01. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BBF18E-06D3-44A9-90A9-4F40B3FDDAA6}|01. Day of Week\\01. Day of Week.csproj|solutionrelative:01. day of week\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\12. Trade Commissions\\Program.cs",
+              "RelativeDocumentMoniker": "12. Trade Commissions\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\12. Trade Commissions\\Program.cs",
+              "RelativeToolTip": "12. Trade Commissions\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv1cAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:59:46.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\11. Fruit Shop\\Program.cs",
+              "RelativeDocumentMoniker": "11. Fruit Shop\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\11. Fruit Shop\\Program.cs",
+              "RelativeToolTip": "11. Fruit Shop\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:59:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\10. Invalid Number\\Program.cs",
+              "RelativeDocumentMoniker": "10. Invalid Number\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\10. Invalid Number\\Program.cs",
+              "RelativeToolTip": "10. Invalid Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:59:32.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\Program.cs",
+              "RelativeDocumentMoniker": "09. Fruit or Vegetable\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\Program.cs",
+              "RelativeToolTip": "09. Fruit or Vegetable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:59:24.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\08. Cinema Ticket\\Program.cs",
+              "RelativeDocumentMoniker": "08. Cinema Ticket\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\08. Cinema Ticket\\Program.cs",
+              "RelativeToolTip": "08. Cinema Ticket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:59:17.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\07. Working Hours\\Program.cs",
+              "RelativeDocumentMoniker": "07. Working Hours\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\07. Working Hours\\Program.cs",
+              "RelativeToolTip": "07. Working Hours\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:59:10.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\06. Number in Range\\Program.cs",
+              "RelativeDocumentMoniker": "06. Number in Range\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\06. Number in Range\\Program.cs",
+              "RelativeToolTip": "06. Number in Range\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:59:03.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\05. Small Shop\\Program.cs",
+              "RelativeDocumentMoniker": "05. Small Shop\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\05. Small Shop\\Program.cs",
+              "RelativeToolTip": "05. Small Shop\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:58:07.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\04. Personal Titles\\Program.cs",
+              "RelativeDocumentMoniker": "04. Personal Titles\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\04. Personal Titles\\Program.cs",
+              "RelativeToolTip": "04. Personal Titles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:58:00.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\03. Animal Type\\Program.cs",
+              "RelativeDocumentMoniker": "03. Animal Type\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\03. Animal Type\\Program.cs",
+              "RelativeToolTip": "03. Animal Type\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:57:50.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\02. Weekend or Working Day\\Program.cs",
+              "RelativeDocumentMoniker": "02. Weekend or Working Day\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\02. Weekend or Working Day\\Program.cs",
+              "RelativeToolTip": "02. Weekend or Working Day\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:57:43.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\01. Day of Week\\Program.cs",
+              "RelativeDocumentMoniker": "01. Day of Week\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\05. Conditional Statements Advanced - Lab\\01. Day of Week\\Program.cs",
+              "RelativeToolTip": "01. Day of Week\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:57:28.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

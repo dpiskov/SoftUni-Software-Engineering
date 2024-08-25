@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\03. Conditional Statements - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDC4FA0-79FD-440C-B3D6-333D20832B52}|04. Password Guess\\04. Password Guess.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\03. conditional statements - lab\\04. password guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDC4FA0-79FD-440C-B3D6-333D20832B52}|04. Password Guess\\04. Password Guess.csproj|solutionrelative:04. password guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4B3844-62E8-4A79-B532-4F270E92B36A}|03. Even or Odd\\03. Even or Odd.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\03. conditional statements - lab\\03. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4B3844-62E8-4A79-B532-4F270E92B36A}|03. Even or Odd\\03. Even or Odd.csproj|solutionrelative:03. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B2A6CD-EE5D-4DD9-A57A-928BE317E5AD}|02. Greater Number\\02. Greater Number.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\03. conditional statements - lab\\02. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B2A6CD-EE5D-4DD9-A57A-928BE317E5AD}|02. Greater Number\\02. Greater Number.csproj|solutionrelative:02. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC012540-734F-41A6-94D4-48FFA5B1CDAF}|01. Excellent Result\\01. Excellent Result.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\03. conditional statements - lab\\01. excellent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC012540-734F-41A6-94D4-48FFA5B1CDAF}|01. Excellent Result\\01. Excellent Result.csproj|solutionrelative:01. excellent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\03. Conditional Statements - Lab\\04. Password Guess\\Program.cs",
+              "RelativeDocumentMoniker": "04. Password Guess\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\03. Conditional Statements - Lab\\04. Password Guess\\Program.cs",
+              "RelativeToolTip": "04. Password Guess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:41:15.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\03. Conditional Statements - Lab\\03. Even or Odd\\Program.cs",
+              "RelativeDocumentMoniker": "03. Even or Odd\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\03. Conditional Statements - Lab\\03. Even or Odd\\Program.cs",
+              "RelativeToolTip": "03. Even or Odd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:40:02.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\03. Conditional Statements - Lab\\02. Greater Number\\Program.cs",
+              "RelativeDocumentMoniker": "02. Greater Number\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\03. Conditional Statements - Lab\\02. Greater Number\\Program.cs",
+              "RelativeToolTip": "02. Greater Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:38:53.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\03. Conditional Statements - Lab\\01. Excellent Result\\Program.cs",
+              "RelativeDocumentMoniker": "01. Excellent Result\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\03. Conditional Statements - Lab\\01. Excellent Result\\Program.cs",
+              "RelativeToolTip": "01. Excellent Result\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:35:56.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

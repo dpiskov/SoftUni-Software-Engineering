@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\bin\Debug\net6.0\1Reverse a String.exe
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\bin\Debug\net6.0\1Reverse a String.deps.json
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\bin\Debug\net6.0\1Reverse a String.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\bin\Debug\net6.0\1Reverse a String.dll
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\bin\Debug\net6.0\1Reverse a String.pdb
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\obj\Debug\net6.0\1Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\obj\Debug\net6.0\1Reverse a String.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\obj\Debug\net6.0\1Reverse a String.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\obj\Debug\net6.0\1Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\obj\Debug\net6.0\1Reverse a String.dll
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\obj\Debug\net6.0\refint\1Reverse a String.dll
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\obj\Debug\net6.0\1Reverse a String.pdb
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\obj\Debug\net6.0\1Reverse a String.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\03. C# Advanced\01Stacks and Queues - Lab\1Reverse a String\obj\Debug\net6.0\ref\1Reverse a String.dll

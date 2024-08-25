@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\bin\Debug\net6.0\01ConvertMetersToKilometers.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\bin\Debug\net6.0\01ConvertMetersToKilometers.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\bin\Debug\net6.0\01ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\bin\Debug\net6.0\01ConvertMetersToKilometers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\bin\Debug\net6.0\01ConvertMetersToKilometers.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\obj\Debug\net6.0\01ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\obj\Debug\net6.0\01ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\obj\Debug\net6.0\01ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\obj\Debug\net6.0\01ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\obj\Debug\net6.0\01ConvertMetersToKilometers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\obj\Debug\net6.0\refint\01ConvertMetersToKilometers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\obj\Debug\net6.0\01ConvertMetersToKilometers.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\obj\Debug\net6.0\01ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\01ConvertMetersToKilometers\obj\Debug\net6.0\ref\01ConvertMetersToKilometers.dll

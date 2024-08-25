@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\refint\03. Time + 15 Minutes.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\04. Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\ref\03. Time + 15 Minutes.dll

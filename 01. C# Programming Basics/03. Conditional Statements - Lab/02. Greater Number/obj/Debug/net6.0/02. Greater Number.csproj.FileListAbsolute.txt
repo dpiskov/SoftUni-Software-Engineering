@@ -1,0 +1,14 @@
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\bin\Debug\net6.0\02. Greater Number.exe
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\bin\Debug\net6.0\02. Greater Number.deps.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\bin\Debug\net6.0\02. Greater Number.runtimeconfig.json
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\bin\Debug\net6.0\02. Greater Number.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\bin\Debug\net6.0\02. Greater Number.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\obj\Debug\net6.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\obj\Debug\net6.0\02. Greater Number.AssemblyInfoInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\obj\Debug\net6.0\02. Greater Number.AssemblyInfo.cs
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\obj\Debug\net6.0\02. Greater Number.csproj.CoreCompileInputs.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\obj\Debug\net6.0\02. Greater Number.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\obj\Debug\net6.0\refint\02. Greater Number.dll
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\obj\Debug\net6.0\02. Greater Number.pdb
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\obj\Debug\net6.0\02. Greater Number.genruntimeconfig.cache
+E:\repos\01. Programming Basics - C#\Homework\C# Basics\03. Conditional Statements - Lab\02. Greater Number\obj\Debug\net6.0\ref\02. Greater Number.dll

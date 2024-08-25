@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\bin\Debug\net6.0\03ExactSumOfRealNumbers.exe
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\bin\Debug\net6.0\03ExactSumOfRealNumbers.deps.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\bin\Debug\net6.0\03ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\bin\Debug\net6.0\03ExactSumOfRealNumbers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\bin\Debug\net6.0\03ExactSumOfRealNumbers.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\obj\Debug\net6.0\03ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\obj\Debug\net6.0\03ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\obj\Debug\net6.0\03ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\obj\Debug\net6.0\03ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\obj\Debug\net6.0\03ExactSumOfRealNumbers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\obj\Debug\net6.0\refint\03ExactSumOfRealNumbers.dll
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\obj\Debug\net6.0\03ExactSumOfRealNumbers.pdb
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\obj\Debug\net6.0\03ExactSumOfRealNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\02. C# Fundamentals\02DataTypesLab\03ExactSumOfRealNumbers\obj\Debug\net6.0\ref\03ExactSumOfRealNumbers.dll

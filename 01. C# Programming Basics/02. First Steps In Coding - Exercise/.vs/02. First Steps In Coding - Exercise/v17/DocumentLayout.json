@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C886838-8EBC-4065-B1D5-3B6E2AE3C34B}|04. Vacation Books List\\04. Vacation Books List.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\02. first steps in coding - exercise\\04. vacation books list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C886838-8EBC-4065-B1D5-3B6E2AE3C34B}|04. Vacation Books List\\04. Vacation Books List.csproj|solutionrelative:04. vacation books list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD6F092-EA26-47DD-BFCD-19E6624EB3AE}|09. Fish Tank\\09. Fish Tank.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\02. first steps in coding - exercise\\09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD6F092-EA26-47DD-BFCD-19E6624EB3AE}|09. Fish Tank\\09. Fish Tank.csproj|solutionrelative:09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5579D-C6BE-4A55-A6DF-A796882098BB}|08. Basketball Equipment\\08. Basketball Equipment.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\02. first steps in coding - exercise\\08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5579D-C6BE-4A55-A6DF-A796882098BB}|08. Basketball Equipment\\08. Basketball Equipment.csproj|solutionrelative:08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB53F8-CD3E-4A9E-B49C-4C7455714780}|07. Food Delivery\\07. Food Delivery.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\02. first steps in coding - exercise\\07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AB53F8-CD3E-4A9E-B49C-4C7455714780}|07. Food Delivery\\07. Food Delivery.csproj|solutionrelative:07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2EE3B6-356D-4621-9F48-7DDAE1CD5AC7}|06. Repainting\\06. Repainting.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\02. first steps in coding - exercise\\06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2EE3B6-356D-4621-9F48-7DDAE1CD5AC7}|06. Repainting\\06. Repainting.csproj|solutionrelative:06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855D1B-B0BF-47DD-9FEE-8B7F74EF1A8A}|05. Supplies for School\\05. Supplies for School.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\02. first steps in coding - exercise\\05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62855D1B-B0BF-47DD-9FEE-8B7F74EF1A8A}|05. Supplies for School\\05. Supplies for School.csproj|solutionrelative:05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3977ADBD-ECD6-4832-BBF7-D462D7CE8A40}|03. Deposit Calculator\\03. Deposit Calculator.csproj|e:\\repos\\01. programming basics - c#\\homework\\c# basics\\02. first steps in coding - exercise\\03. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3977ADBD-ECD6-4832-BBF7-D462D7CE8A40}|03. Deposit Calculator\\03. Deposit Calculator.csproj|solutionrelative:03. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\09. Fish Tank\\Program.cs",
+              "RelativeDocumentMoniker": "09. Fish Tank\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\09. Fish Tank\\Program.cs",
+              "RelativeToolTip": "09. Fish Tank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:50:56.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\08. Basketball Equipment\\Program.cs",
+              "RelativeDocumentMoniker": "08. Basketball Equipment\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\08. Basketball Equipment\\Program.cs",
+              "RelativeToolTip": "08. Basketball Equipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:47:37.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\04. Vacation Books List\\Program.cs",
+              "RelativeDocumentMoniker": "04. Vacation Books List\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\04. Vacation Books List\\Program.cs",
+              "RelativeToolTip": "04. Vacation Books List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:25:13.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\07. Food Delivery\\Program.cs",
+              "RelativeDocumentMoniker": "07. Food Delivery\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\07. Food Delivery\\Program.cs",
+              "RelativeToolTip": "07. Food Delivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:43:03.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\06. Repainting\\Program.cs",
+              "RelativeDocumentMoniker": "06. Repainting\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\06. Repainting\\Program.cs",
+              "RelativeToolTip": "06. Repainting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:37:03.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\05. Supplies for School\\Program.cs",
+              "RelativeDocumentMoniker": "05. Supplies for School\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\05. Supplies for School\\Program.cs",
+              "RelativeToolTip": "05. Supplies for School\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:29:43.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\03. Deposit Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "03. Deposit Calculator\\Program.cs",
+              "ToolTip": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\02. First Steps In Coding - Exercise\\03. Deposit Calculator\\Program.cs",
+              "RelativeToolTip": "03. Deposit Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:21:52.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
