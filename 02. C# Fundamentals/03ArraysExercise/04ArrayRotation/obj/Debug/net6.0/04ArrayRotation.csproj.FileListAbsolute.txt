@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\bin\Debug\net6.0\04ArrayRotation.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\bin\Debug\net6.0\04ArrayRotation.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\bin\Debug\net6.0\04ArrayRotation.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\bin\Debug\net6.0\04ArrayRotation.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\bin\Debug\net6.0\04ArrayRotation.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\04ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\04ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\04ArrayRotation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\04ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\04ArrayRotation.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\04ArrayRotation.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\refint\04ArrayRotation.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\04ArrayRotation.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\04ArrayRotation.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\04ArrayRotation\obj\Debug\net6.0\ref\04ArrayRotation.dll

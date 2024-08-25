@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\bin\Debug\net6.0\03ZigZagArrays.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\bin\Debug\net6.0\03ZigZagArrays.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\bin\Debug\net6.0\03ZigZagArrays.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\bin\Debug\net6.0\03ZigZagArrays.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\bin\Debug\net6.0\03ZigZagArrays.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\03ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\03ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\03ZigZagArrays.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\03ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\03ZigZagArrays.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\03ZigZagArrays.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\refint\03ZigZagArrays.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\03ZigZagArrays.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\03ZigZagArrays.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\03ZigZagArrays\obj\Debug\net6.0\ref\03ZigZagArrays.dll

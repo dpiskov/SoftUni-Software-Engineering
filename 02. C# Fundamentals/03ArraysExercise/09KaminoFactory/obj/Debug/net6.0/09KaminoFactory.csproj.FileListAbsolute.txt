@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\bin\Debug\net6.0\09KaminoFactory.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\bin\Debug\net6.0\09KaminoFactory.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\bin\Debug\net6.0\09KaminoFactory.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\bin\Debug\net6.0\09KaminoFactory.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\bin\Debug\net6.0\09KaminoFactory.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\09KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\09KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\09KaminoFactory.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\09KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\09KaminoFactory.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\09KaminoFactory.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\refint\09KaminoFactory.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\09KaminoFactory.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\09KaminoFactory.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\09KaminoFactory\obj\Debug\net6.0\ref\09KaminoFactory.dll
