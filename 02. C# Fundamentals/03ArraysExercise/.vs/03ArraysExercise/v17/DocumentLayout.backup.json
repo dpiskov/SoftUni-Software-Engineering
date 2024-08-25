@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA80F6C7-4969-44FE-8457-2D6E38941BD2}|07MaxSequenceOfEqualElements\\07MaxSequenceOfEqualElements.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\03arraysexercise\\07maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA80F6C7-4969-44FE-8457-2D6E38941BD2}|07MaxSequenceOfEqualElements\\07MaxSequenceOfEqualElements.csproj|solutionrelative:07maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF6DABA8-8802-4CA5-BCAA-E3B0BDE8E64C}|09KaminoFactory\\09KaminoFactory.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\03arraysexercise\\09kaminofactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF6DABA8-8802-4CA5-BCAA-E3B0BDE8E64C}|09KaminoFactory\\09KaminoFactory.csproj|solutionrelative:09kaminofactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC55242B-50FC-4F6E-B2E3-19E98D56CEB0}|08MagicSum\\08MagicSum.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\03arraysexercise\\08magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC55242B-50FC-4F6E-B2E3-19E98D56CEB0}|08MagicSum\\08MagicSum.csproj|solutionrelative:08magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA80F6C7-4969-44FE-8457-2D6E38941BD2}|07MaxSequenceOfEqualElements\\07MaxSequenceOfEqualElements.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\03arraysexercise\\07maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA80F6C7-4969-44FE-8457-2D6E38941BD2}|07MaxSequenceOfEqualElements\\07MaxSequenceOfEqualElements.csproj|solutionrelative:07maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC19A5F1-FAC4-4B46-9E9F-0151248CC81C}|10LadyBugs\\10LadyBugs.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\03arraysexercise\\10ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\08MagicSum\\Program.cs",
-              "RelativeDocumentMoniker": "08MagicSum\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\08MagicSum\\Program.cs",
-              "RelativeToolTip": "08MagicSum\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\07MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeDocumentMoniker": "07MaxSequenceOfEqualElements\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\07MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeToolTip": "07MaxSequenceOfEqualElements\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T14:08:47.001Z",
+              "WhenOpened": "2024-08-25T19:03:59.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\09KaminoFactory\\Program.cs",
               "RelativeDocumentMoniker": "09KaminoFactory\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\09KaminoFactory\\Program.cs",
-              "RelativeToolTip": "09KaminoFactory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\09KaminoFactory\\Program.cs*",
+              "RelativeToolTip": "09KaminoFactory\\Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwDsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T14:08:55.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\10LadyBugs\\Program.cs",
               "RelativeDocumentMoniker": "10LadyBugs\\Program.cs",
@@ -81,19 +77,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T14:09:07.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\07MaxSequenceOfEqualElements\\Program.cs",
-              "RelativeDocumentMoniker": "07MaxSequenceOfEqualElements\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\03ArraysExercise\\07MaxSequenceOfEqualElements\\Program.cs",
-              "RelativeToolTip": "07MaxSequenceOfEqualElements\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T14:08:36.463Z",
               "EditorCaption": ""
             }
           ]

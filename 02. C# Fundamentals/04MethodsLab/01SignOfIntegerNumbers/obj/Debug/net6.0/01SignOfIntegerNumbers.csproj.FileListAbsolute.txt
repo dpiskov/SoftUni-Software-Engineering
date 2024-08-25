@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\bin\Debug\net6.0\01SignOfIntegerNumbers.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\bin\Debug\net6.0\01SignOfIntegerNumbers.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\bin\Debug\net6.0\01SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\bin\Debug\net6.0\01SignOfIntegerNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\bin\Debug\net6.0\01SignOfIntegerNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\01SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\01SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\01SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\01SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\01SignOfIntegerNumbers.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\01SignOfIntegerNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\refint\01SignOfIntegerNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\01SignOfIntegerNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\01SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\01SignOfIntegerNumbers\obj\Debug\net6.0\ref\01SignOfIntegerNumbers.dll

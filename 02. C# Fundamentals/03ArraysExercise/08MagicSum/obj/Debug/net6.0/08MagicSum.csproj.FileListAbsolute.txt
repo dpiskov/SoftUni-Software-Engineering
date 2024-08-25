@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\bin\Debug\net6.0\08MagicSum.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\bin\Debug\net6.0\08MagicSum.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\bin\Debug\net6.0\08MagicSum.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\bin\Debug\net6.0\08MagicSum.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\bin\Debug\net6.0\08MagicSum.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\08MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\08MagicSum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\08MagicSum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\08MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\08MagicSum.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\08MagicSum.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\refint\08MagicSum.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\08MagicSum.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\08MagicSum.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\03ArraysExercise\08MagicSum\obj\Debug\net6.0\ref\08MagicSum.dll

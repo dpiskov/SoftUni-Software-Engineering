@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\bin\Debug\net6.0\03Calculations.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\bin\Debug\net6.0\03Calculations.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\bin\Debug\net6.0\03Calculations.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\bin\Debug\net6.0\03Calculations.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\bin\Debug\net6.0\03Calculations.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\03Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\03Calculations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\03Calculations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\03Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\03Calculations.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\03Calculations.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\refint\03Calculations.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\03Calculations.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\03Calculations.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\03Calculations\obj\Debug\net6.0\ref\03Calculations.dll

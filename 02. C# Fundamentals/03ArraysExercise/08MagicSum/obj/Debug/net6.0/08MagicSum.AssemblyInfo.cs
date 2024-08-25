@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08MagicSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdee18b30f01bfc2a0c66ac4ec7c4e364fa6cb0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35249dd65a6d20e19c9e81ea8bbd318fc639fd83")]
 [assembly: System.Reflection.AssemblyProductAttribute("08MagicSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08MagicSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
