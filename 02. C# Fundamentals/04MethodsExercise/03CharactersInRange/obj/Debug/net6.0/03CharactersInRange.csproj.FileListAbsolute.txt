@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\bin\Debug\net6.0\03CharactersInRange.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\bin\Debug\net6.0\03CharactersInRange.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\bin\Debug\net6.0\03CharactersInRange.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\bin\Debug\net6.0\03CharactersInRange.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\bin\Debug\net6.0\03CharactersInRange.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\03CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\03CharactersInRange.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\03CharactersInRange.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\03CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\03CharactersInRange.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\03CharactersInRange.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\refint\03CharactersInRange.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\03CharactersInRange.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\03CharactersInRange.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\03CharactersInRange\obj\Debug\net6.0\ref\03CharactersInRange.dll

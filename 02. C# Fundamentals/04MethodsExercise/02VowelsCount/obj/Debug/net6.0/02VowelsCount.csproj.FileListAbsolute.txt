@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\bin\Debug\net6.0\02VowelsCount.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\bin\Debug\net6.0\02VowelsCount.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\bin\Debug\net6.0\02VowelsCount.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\bin\Debug\net6.0\02VowelsCount.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\bin\Debug\net6.0\02VowelsCount.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\02VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\02VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\02VowelsCount.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\02VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\02VowelsCount.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\02VowelsCount.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\refint\02VowelsCount.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\02VowelsCount.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\02VowelsCount.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\02VowelsCount\obj\Debug\net6.0\ref\02VowelsCount.dll

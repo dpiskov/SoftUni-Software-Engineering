@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE8ABE88-68E1-438B-884A-DB0AD42C78EE}|10MultiplyEvensByOdds\\10MultiplyEvensByOdds.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\10multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE8ABE88-68E1-438B-884A-DB0AD42C78EE}|10MultiplyEvensByOdds\\10MultiplyEvensByOdds.csproj|solutionrelative:10multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB64EE3E-4D6A-448F-9133-6B0416E21B89}|11MathOperations\\11MathOperations.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\11mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB64EE3E-4D6A-448F-9133-6B0416E21B89}|11MathOperations\\11MathOperations.csproj|solutionrelative:11mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\11MathOperations\\Program.cs",
               "RelativeDocumentMoniker": "11MathOperations\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\11MathOperations\\Program.cs",
-              "RelativeToolTip": "11MathOperations\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\11MathOperations\\Program.cs*",
+              "RelativeToolTip": "11MathOperations\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T19:28:34.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\10MultiplyEvensByOdds\\Program.cs",
-              "RelativeDocumentMoniker": "10MultiplyEvensByOdds\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\10MultiplyEvensByOdds\\Program.cs*",
-              "RelativeToolTip": "10MultiplyEvensByOdds\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:28:28.357Z",
               "EditorCaption": ""
             }
           ]

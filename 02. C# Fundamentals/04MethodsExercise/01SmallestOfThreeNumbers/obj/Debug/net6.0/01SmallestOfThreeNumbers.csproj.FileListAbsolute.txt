@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\net6.0\01SmallestOfThreeNumbers.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\net6.0\01SmallestOfThreeNumbers.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\net6.0\01SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\net6.0\01SmallestOfThreeNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\bin\Debug\net6.0\01SmallestOfThreeNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\01SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\01SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\01SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\01SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\01SmallestOfThreeNumbers.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\01SmallestOfThreeNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\refint\01SmallestOfThreeNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\01SmallestOfThreeNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\01SmallestOfThreeNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\01SmallestOfThreeNumbers\obj\Debug\net6.0\ref\01SmallestOfThreeNumbers.dll
