@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\bin\Debug\net6.0\05Orders.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\bin\Debug\net6.0\05Orders.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\bin\Debug\net6.0\05Orders.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\bin\Debug\net6.0\05Orders.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\bin\Debug\net6.0\05Orders.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\05Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\05Orders.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\05Orders.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\05Orders.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\05Orders.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\05Orders.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\refint\05Orders.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\05Orders.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\05Orders.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\05Orders\obj\Debug\net6.0\ref\05Orders.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\bin\Debug\net6.0\08MathPower.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\bin\Debug\net6.0\08MathPower.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\bin\Debug\net6.0\08MathPower.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\bin\Debug\net6.0\08MathPower.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\bin\Debug\net6.0\08MathPower.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\08MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\08MathPower.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\08MathPower.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\08MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\08MathPower.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\08MathPower.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\refint\08MathPower.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\08MathPower.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\08MathPower.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\08MathPower\obj\Debug\net6.0\ref\08MathPower.dll

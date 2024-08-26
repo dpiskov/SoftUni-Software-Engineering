@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{254CD3CF-3097-4C2D-8BB3-44520240A5B6}|03Calculations\\03Calculations.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\03calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{254CD3CF-3097-4C2D-8BB3-44520240A5B6}|03Calculations\\03Calculations.csproj|solutionrelative:03calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB64EE3E-4D6A-448F-9133-6B0416E21B89}|11MathOperations\\11MathOperations.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\11mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB64EE3E-4D6A-448F-9133-6B0416E21B89}|11MathOperations\\11MathOperations.csproj|solutionrelative:11mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE8ABE88-68E1-438B-884A-DB0AD42C78EE}|10MultiplyEvensByOdds\\10MultiplyEvensByOdds.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\10multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE8ABE88-68E1-438B-884A-DB0AD42C78EE}|10MultiplyEvensByOdds\\10MultiplyEvensByOdds.csproj|solutionrelative:10multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49EBACF-693E-471D-9C69-9074D3240359}|09GreaterOfTwoValues\\09GreaterOfTwoValues.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\09greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49EBACF-693E-471D-9C69-9074D3240359}|09GreaterOfTwoValues\\09GreaterOfTwoValues.csproj|solutionrelative:09greateroftwovalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C9426C5-2E5C-4FCC-BCB3-564AA4E065AE}|08MathPower\\08MathPower.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\08mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C9426C5-2E5C-4FCC-BCB3-564AA4E065AE}|08MathPower\\08MathPower.csproj|solutionrelative:08mathpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A833A409-EA13-4C3E-ACD2-2C5A2186947F}|07RepeatString\\07RepeatString.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\07repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A833A409-EA13-4C3E-ACD2-2C5A2186947F}|07RepeatString\\07RepeatString.csproj|solutionrelative:07repeatstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B4983EC-293B-446A-9BB7-1D913C0AE7B9}|06CalculateRectangleArea\\06CalculateRectangleArea.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\06calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B4983EC-293B-446A-9BB7-1D913C0AE7B9}|06CalculateRectangleArea\\06CalculateRectangleArea.csproj|solutionrelative:06calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B14876FA-621A-4E8D-B0EF-A8DCF4F77B52}|05Orders\\05Orders.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\05orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14876FA-621A-4E8D-B0EF-A8DCF4F77B52}|05Orders\\05Orders.csproj|solutionrelative:05orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38026198-1EF6-4D36-9FC7-B0E1D9B709D5}|04PrintingTriangle\\04PrintingTriangle.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\04printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38026198-1EF6-4D36-9FC7-B0E1D9B709D5}|04PrintingTriangle\\04PrintingTriangle.csproj|solutionrelative:04printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB64EE3E-4D6A-448F-9133-6B0416E21B89}|11MathOperations\\11MathOperations.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodslab\\11mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64EE3E-4D6A-448F-9133-6B0416E21B89}|11MathOperations\\11MathOperations.csproj|solutionrelative:11mathoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -72,113 +44,22 @@
               "RelativeDocumentMoniker": "11MathOperations\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\11MathOperations\\Program.cs",
               "RelativeToolTip": "11MathOperations\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T19:28:34.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\10MultiplyEvensByOdds\\Program.cs",
               "RelativeDocumentMoniker": "10MultiplyEvensByOdds\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\10MultiplyEvensByOdds\\Program.cs",
-              "RelativeToolTip": "10MultiplyEvensByOdds\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\10MultiplyEvensByOdds\\Program.cs*",
+              "RelativeToolTip": "10MultiplyEvensByOdds\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T19:28:28.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\09GreaterOfTwoValues\\Program.cs",
-              "RelativeDocumentMoniker": "09GreaterOfTwoValues\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\09GreaterOfTwoValues\\Program.cs",
-              "RelativeToolTip": "09GreaterOfTwoValues\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:28:22.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\08MathPower\\Program.cs",
-              "RelativeDocumentMoniker": "08MathPower\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\08MathPower\\Program.cs",
-              "RelativeToolTip": "08MathPower\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:28:16.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\07RepeatString\\Program.cs",
-              "RelativeDocumentMoniker": "07RepeatString\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\07RepeatString\\Program.cs",
-              "RelativeToolTip": "07RepeatString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:28:10.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\06CalculateRectangleArea\\Program.cs",
-              "RelativeDocumentMoniker": "06CalculateRectangleArea\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\06CalculateRectangleArea\\Program.cs",
-              "RelativeToolTip": "06CalculateRectangleArea\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:28:03.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\05Orders\\Program.cs",
-              "RelativeDocumentMoniker": "05Orders\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\05Orders\\Program.cs",
-              "RelativeToolTip": "05Orders\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:27:58.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\04PrintingTriangle\\Program.cs",
-              "RelativeDocumentMoniker": "04PrintingTriangle\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\04PrintingTriangle\\Program.cs",
-              "RelativeToolTip": "04PrintingTriangle\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:27:52.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\03Calculations\\Program.cs",
-              "RelativeDocumentMoniker": "03Calculations\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsLab\\03Calculations\\Program.cs*",
-              "RelativeToolTip": "03Calculations\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:27:43.666Z",
               "EditorCaption": ""
             }
           ]

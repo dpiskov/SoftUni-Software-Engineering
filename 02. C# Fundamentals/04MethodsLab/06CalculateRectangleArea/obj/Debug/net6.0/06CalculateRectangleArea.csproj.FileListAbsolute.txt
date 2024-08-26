@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\bin\Debug\net6.0\06CalculateRectangleArea.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\bin\Debug\net6.0\06CalculateRectangleArea.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\bin\Debug\net6.0\06CalculateRectangleArea.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\bin\Debug\net6.0\06CalculateRectangleArea.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\bin\Debug\net6.0\06CalculateRectangleArea.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\06CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\06CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\06CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\06CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\06CalculateRectangleArea.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\06CalculateRectangleArea.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\refint\06CalculateRectangleArea.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\06CalculateRectangleArea.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\06CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\06CalculateRectangleArea\obj\Debug\net6.0\ref\06CalculateRectangleArea.dll

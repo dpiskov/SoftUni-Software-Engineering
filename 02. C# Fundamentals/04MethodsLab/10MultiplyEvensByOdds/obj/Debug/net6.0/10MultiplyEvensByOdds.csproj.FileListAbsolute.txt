@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\bin\Debug\net6.0\10MultiplyEvensByOdds.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\bin\Debug\net6.0\10MultiplyEvensByOdds.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\bin\Debug\net6.0\10MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\bin\Debug\net6.0\10MultiplyEvensByOdds.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\bin\Debug\net6.0\10MultiplyEvensByOdds.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\10MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\10MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\10MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\10MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\10MultiplyEvensByOdds.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\10MultiplyEvensByOdds.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\refint\10MultiplyEvensByOdds.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\10MultiplyEvensByOdds.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\10MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\10MultiplyEvensByOdds\obj\Debug\net6.0\ref\10MultiplyEvensByOdds.dll

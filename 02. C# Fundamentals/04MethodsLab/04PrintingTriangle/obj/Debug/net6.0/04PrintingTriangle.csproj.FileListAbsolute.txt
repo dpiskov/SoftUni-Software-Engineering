@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\bin\Debug\net6.0\04PrintingTriangle.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\bin\Debug\net6.0\04PrintingTriangle.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\bin\Debug\net6.0\04PrintingTriangle.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\bin\Debug\net6.0\04PrintingTriangle.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\bin\Debug\net6.0\04PrintingTriangle.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\04PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\04PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\04PrintingTriangle.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\04PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\04PrintingTriangle.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\04PrintingTriangle.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\refint\04PrintingTriangle.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\04PrintingTriangle.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\04PrintingTriangle.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\04PrintingTriangle\obj\Debug\net6.0\ref\04PrintingTriangle.dll

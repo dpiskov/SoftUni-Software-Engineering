@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\bin\Debug\net6.0\07RepeatString.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\bin\Debug\net6.0\07RepeatString.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\bin\Debug\net6.0\07RepeatString.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\bin\Debug\net6.0\07RepeatString.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\bin\Debug\net6.0\07RepeatString.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\07RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\07RepeatString.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\07RepeatString.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\07RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\07RepeatString.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\07RepeatString.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\refint\07RepeatString.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\07RepeatString.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\07RepeatString.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsLab\07RepeatString\obj\Debug\net6.0\ref\07RepeatString.dll
