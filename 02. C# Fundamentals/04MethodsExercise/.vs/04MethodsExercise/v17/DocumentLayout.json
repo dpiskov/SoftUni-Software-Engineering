@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BC5E07C-DD20-4437-8DCA-CA28C1B1DE0D}|03CharactersInRange\\03CharactersInRange.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\03charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BC5E07C-DD20-4437-8DCA-CA28C1B1DE0D}|03CharactersInRange\\03CharactersInRange.csproj|solutionrelative:03charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C84978BC-2979-4385-A6BD-FF8A79E6DF28}|01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\01smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C84978BC-2979-4385-A6BD-FF8A79E6DF28}|01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj|solutionrelative:01smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA80AA1E-A503-4B13-882A-F381D9294EF4}|02VowelsCount\\02VowelsCount.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\02vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA80AA1E-A503-4B13-882A-F381D9294EF4}|02VowelsCount\\02VowelsCount.csproj|solutionrelative:02vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8E4148B-5747-439F-B73E-C9C71D8B16FB}|10TopNumber\\10TopNumber.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\10topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8E4148B-5747-439F-B73E-C9C71D8B16FB}|10TopNumber\\10TopNumber.csproj|solutionrelative:10topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09BC244A-2871-4869-90B2-E1E63AFE0038}|09PalindromeIntegers\\09PalindromeIntegers.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\09palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09BC244A-2871-4869-90B2-E1E63AFE0038}|09PalindromeIntegers\\09PalindromeIntegers.csproj|solutionrelative:09palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56CBD352-DA66-40D0-8AD6-40FF637AE4DC}|11ArrayManipulator\\11ArrayManipulator.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\11arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CBD352-DA66-40D0-8AD6-40FF637AE4DC}|11ArrayManipulator\\11ArrayManipulator.csproj|solutionrelative:11arraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0CB43BB-DDD8-4544-8667-94D94B328B0B}|08FactorialDivision\\08FactorialDivision.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\08factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0CB43BB-DDD8-4544-8667-94D94B328B0B}|08FactorialDivision\\08FactorialDivision.csproj|solutionrelative:08factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4368ECD1-C147-415C-A946-EBD203A6A5A2}|07NxNMatrix\\07NxNMatrix.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\07nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4368ECD1-C147-415C-A946-EBD203A6A5A2}|07NxNMatrix\\07NxNMatrix.csproj|solutionrelative:07nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C9D77D-CE55-48F1-A8B9-5D3EF0C2FB06}|06MiddleCharacters\\06MiddleCharacters.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\06middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C9D77D-CE55-48F1-A8B9-5D3EF0C2FB06}|06MiddleCharacters\\06MiddleCharacters.csproj|solutionrelative:06middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3EC359E-9811-4E24-A9E0-03F5D1C703CE}|05AddAndSubtract\\05AddAndSubtract.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\05addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3EC359E-9811-4E24-A9E0-03F5D1C703CE}|05AddAndSubtract\\05AddAndSubtract.csproj|solutionrelative:05addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE88DFC0-1AC0-4D95-A911-806B3ECF3B4E}|04PasswordValidator\\04PasswordValidator.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\04methodsexercise\\04passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE88DFC0-1AC0-4D95-A911-806B3ECF3B4E}|04PasswordValidator\\04PasswordValidator.csproj|solutionrelative:04passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,132 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\10TopNumber\\Program.cs",
-              "RelativeDocumentMoniker": "10TopNumber\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\10TopNumber\\Program.cs",
-              "RelativeToolTip": "10TopNumber\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:02:44.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\09PalindromeIntegers\\Program.cs",
-              "RelativeDocumentMoniker": "09PalindromeIntegers\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\09PalindromeIntegers\\Program.cs",
-              "RelativeToolTip": "09PalindromeIntegers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:02:35.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\08FactorialDivision\\Program.cs",
-              "RelativeDocumentMoniker": "08FactorialDivision\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\08FactorialDivision\\Program.cs",
-              "RelativeToolTip": "08FactorialDivision\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:02:29.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\07NxNMatrix\\Program.cs",
-              "RelativeDocumentMoniker": "07NxNMatrix\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\07NxNMatrix\\Program.cs",
-              "RelativeToolTip": "07NxNMatrix\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:02:21.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\06MiddleCharacters\\Program.cs",
-              "RelativeDocumentMoniker": "06MiddleCharacters\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\06MiddleCharacters\\Program.cs",
-              "RelativeToolTip": "06MiddleCharacters\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:02:16.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\05AddAndSubtract\\Program.cs",
-              "RelativeDocumentMoniker": "05AddAndSubtract\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\05AddAndSubtract\\Program.cs",
-              "RelativeToolTip": "05AddAndSubtract\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:02:10.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\04PasswordValidator\\Program.cs",
-              "RelativeDocumentMoniker": "04PasswordValidator\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\04PasswordValidator\\Program.cs",
-              "RelativeToolTip": "04PasswordValidator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:02:04.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\03CharactersInRange\\Program.cs",
-              "RelativeDocumentMoniker": "03CharactersInRange\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\03CharactersInRange\\Program.cs",
-              "RelativeToolTip": "03CharactersInRange\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\11ArrayManipulator\\Program.cs",
+              "RelativeDocumentMoniker": "11ArrayManipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\11ArrayManipulator\\Program.cs",
+              "RelativeToolTip": "11ArrayManipulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:01:58.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\02VowelsCount\\Program.cs",
-              "RelativeDocumentMoniker": "02VowelsCount\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\02VowelsCount\\Program.cs",
-              "RelativeToolTip": "02VowelsCount\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:01:52.318Z",
+              "WhenOpened": "2024-08-27T08:07:35.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\01SmallestOfThreeNumbers\\Program.cs",
-              "RelativeDocumentMoniker": "01SmallestOfThreeNumbers\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\01SmallestOfThreeNumbers\\Program.cs",
-              "RelativeToolTip": "01SmallestOfThreeNumbers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBoAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\08FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "08FactorialDivision\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\04MethodsExercise\\08FactorialDivision\\Program.cs",
+              "RelativeToolTip": "08FactorialDivision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T15:01:41.586Z",
+              "WhenOpened": "2024-08-26T15:02:29.603Z",
               "EditorCaption": ""
             }
           ]

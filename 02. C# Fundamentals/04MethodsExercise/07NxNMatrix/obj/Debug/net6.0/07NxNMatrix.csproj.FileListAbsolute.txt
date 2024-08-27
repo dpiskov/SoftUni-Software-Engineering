@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\bin\Debug\net6.0\07NxNMatrix.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\bin\Debug\net6.0\07NxNMatrix.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\bin\Debug\net6.0\07NxNMatrix.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\bin\Debug\net6.0\07NxNMatrix.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\bin\Debug\net6.0\07NxNMatrix.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\07NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\07NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\07NxNMatrix.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\07NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\07NxNMatrix.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\07NxNMatrix.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\refint\07NxNMatrix.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\07NxNMatrix.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\07NxNMatrix.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\07NxNMatrix\obj\Debug\net6.0\ref\07NxNMatrix.dll

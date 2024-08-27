@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\bin\Debug\net6.0\08FactorialDivision.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\bin\Debug\net6.0\08FactorialDivision.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\bin\Debug\net6.0\08FactorialDivision.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\bin\Debug\net6.0\08FactorialDivision.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\bin\Debug\net6.0\08FactorialDivision.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\08FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\08FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\08FactorialDivision.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\08FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\08FactorialDivision.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\08FactorialDivision.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\refint\08FactorialDivision.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\08FactorialDivision.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\08FactorialDivision.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\08FactorialDivision\obj\Debug\net6.0\ref\08FactorialDivision.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\bin\Debug\net6.0\09PalindromeIntegers.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\bin\Debug\net6.0\09PalindromeIntegers.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\bin\Debug\net6.0\09PalindromeIntegers.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\bin\Debug\net6.0\09PalindromeIntegers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\bin\Debug\net6.0\09PalindromeIntegers.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\09PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\09PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\09PalindromeIntegers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\09PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\09PalindromeIntegers.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\09PalindromeIntegers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\refint\09PalindromeIntegers.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\09PalindromeIntegers.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\09PalindromeIntegers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\09PalindromeIntegers\obj\Debug\net6.0\ref\09PalindromeIntegers.dll

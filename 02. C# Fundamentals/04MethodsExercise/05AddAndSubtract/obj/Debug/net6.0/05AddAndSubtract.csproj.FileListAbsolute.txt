@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\bin\Debug\net6.0\05AddAndSubtract.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\bin\Debug\net6.0\05AddAndSubtract.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\bin\Debug\net6.0\05AddAndSubtract.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\bin\Debug\net6.0\05AddAndSubtract.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\bin\Debug\net6.0\05AddAndSubtract.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\05AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\05AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\05AddAndSubtract.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\05AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\05AddAndSubtract.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\05AddAndSubtract.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\refint\05AddAndSubtract.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\05AddAndSubtract.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\05AddAndSubtract.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\04MethodsExercise\05AddAndSubtract\obj\Debug\net6.0\ref\05AddAndSubtract.dll
