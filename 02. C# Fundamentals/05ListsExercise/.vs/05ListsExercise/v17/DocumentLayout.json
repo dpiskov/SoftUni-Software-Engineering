@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE4902-11BB-4F8F-9CBC-D192AD6C2475}|10SoftUniCoursePlanning\\10SoftUniCoursePlanning.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\10softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AE4902-11BB-4F8F-9CBC-D192AD6C2475}|10SoftUniCoursePlanning\\10SoftUniCoursePlanning.csproj|solutionrelative:10softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F41EBB1-F995-4161-8F88-1C2F5FF5D31F}|09PokemonDon\u0027tGo\\09PokemonDon\u0027tGo.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\09pokemondon\u0027tgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F41EBB1-F995-4161-8F88-1C2F5FF5D31F}|09PokemonDon\u0027tGo\\09PokemonDon\u0027tGo.csproj|solutionrelative:09pokemondon\u0027tgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC09C914-41FB-4021-B98B-F9CB7A56BCCC}|08AnonymousThreat\\08AnonymousThreat.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\08anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC09C914-41FB-4021-B98B-F9CB7A56BCCC}|08AnonymousThreat\\08AnonymousThreat.csproj|solutionrelative:08anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED49FA3-D3A0-4D03-92E1-A3EE3075C0D4}|07AppendArrays\\07AppendArrays.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\07appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED49FA3-D3A0-4D03-92E1-A3EE3075C0D4}|07AppendArrays\\07AppendArrays.csproj|solutionrelative:07appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F805B-AB99-4735-A165-1D23896C193C}|06CardsGame\\06CardsGame.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\06cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F805B-AB99-4735-A165-1D23896C193C}|06CardsGame\\06CardsGame.csproj|solutionrelative:06cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A06AEE5-FE20-49BD-B63D-0AFCBCF08634}|05BombNumbers\\05BombNumbers.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\05bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A06AEE5-FE20-49BD-B63D-0AFCBCF08634}|05BombNumbers\\05BombNumbers.csproj|solutionrelative:05bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E70F81-F2E1-42DB-9ABD-B631A4BE5B3F}|04ListOperations\\04ListOperations.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\04listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E70F81-F2E1-42DB-9ABD-B631A4BE5B3F}|04ListOperations\\04ListOperations.csproj|solutionrelative:04listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C151A6B4-672C-4C0C-9008-90F60AD33242}|03HouseParty\\03HouseParty.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\03houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C151A6B4-672C-4C0C-9008-90F60AD33242}|03HouseParty\\03HouseParty.csproj|solutionrelative:03houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052CEAD4-949E-4C59-AC39-5FEA2AD43F23}|02ChangeList\\02ChangeList.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\02changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052CEAD4-949E-4C59-AC39-5FEA2AD43F23}|02ChangeList\\02ChangeList.csproj|solutionrelative:02changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A4A117-3318-44CC-BCFB-D540E850296A}|01Train\\01Train.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\02. c# fundamentals\\05listsexercise\\01train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A4A117-3318-44CC-BCFB-D540E850296A}|01Train\\01Train.csproj|solutionrelative:01train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\10SoftUniCoursePlanning\\Program.cs",
+              "RelativeDocumentMoniker": "10SoftUniCoursePlanning\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\10SoftUniCoursePlanning\\Program.cs",
+              "RelativeToolTip": "10SoftUniCoursePlanning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:11:29.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\09PokemonDon\u0027tGo\\Program.cs",
+              "RelativeDocumentMoniker": "09PokemonDon\u0027tGo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\09PokemonDon\u0027tGo\\Program.cs",
+              "RelativeToolTip": "09PokemonDon\u0027tGo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:11:24.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\08AnonymousThreat\\Program.cs",
+              "RelativeDocumentMoniker": "08AnonymousThreat\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\08AnonymousThreat\\Program.cs",
+              "RelativeToolTip": "08AnonymousThreat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:11:19.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\07AppendArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07AppendArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\07AppendArrays\\Program.cs",
+              "RelativeToolTip": "07AppendArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:11:13.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\06CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "06CardsGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\06CardsGame\\Program.cs",
+              "RelativeToolTip": "06CardsGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:11:08.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\05BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05BombNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\05BombNumbers\\Program.cs",
+              "RelativeToolTip": "05BombNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:11:01.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\04ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "04ListOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\04ListOperations\\Program.cs",
+              "RelativeToolTip": "04ListOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:10:56.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\03HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "03HouseParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\03HouseParty\\Program.cs",
+              "RelativeToolTip": "03HouseParty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:10:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\02ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "02ChangeList\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\02ChangeList\\Program.cs",
+              "RelativeToolTip": "02ChangeList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:10:44.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\01Train\\Program.cs",
+              "RelativeDocumentMoniker": "01Train\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\02. C# Fundamentals\\05ListsExercise\\01Train\\Program.cs",
+              "RelativeToolTip": "01Train\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:10:37.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\refint\04. Fishing Boat.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net6.0\ref\04. Fishing Boat.dll

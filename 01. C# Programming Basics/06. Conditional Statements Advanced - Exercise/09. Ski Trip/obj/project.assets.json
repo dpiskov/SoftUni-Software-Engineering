@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\06. Conditional Statements Advanced - Exercise\\09. Ski Trip\\09. Ski Trip.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\06. Conditional Statements Advanced - Exercise\\09. Ski Trip\\09. Ski Trip.csproj",
       "projectName": "09. Ski Trip",
-      "projectPath": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\06. Conditional Statements Advanced - Exercise\\09. Ski Trip\\09. Ski Trip.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\06. Conditional Statements Advanced - Exercise\\09. Ski Trip\\09. Ski Trip.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\06. Conditional Statements Advanced - Exercise\\09. Ski Trip\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\06. Conditional Statements Advanced - Exercise\\09. Ski Trip\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

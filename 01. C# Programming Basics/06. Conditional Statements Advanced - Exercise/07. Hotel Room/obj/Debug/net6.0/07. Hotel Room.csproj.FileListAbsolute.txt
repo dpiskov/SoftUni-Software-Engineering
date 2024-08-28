@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net6.0\07. Hotel Room.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net6.0\07. Hotel Room.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net6.0\07. Hotel Room.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net6.0\07. Hotel Room.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\net6.0\07. Hotel Room.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\07. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\07. Hotel Room.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\07. Hotel Room.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\07. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\07. Hotel Room.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\07. Hotel Room.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\refint\07. Hotel Room.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\07. Hotel Room.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\07. Hotel Room.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\net6.0\ref\07. Hotel Room.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\bin\Debug\net6.0\04ListOfProducts.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\bin\Debug\net6.0\04ListOfProducts.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\bin\Debug\net6.0\04ListOfProducts.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\bin\Debug\net6.0\04ListOfProducts.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\bin\Debug\net6.0\04ListOfProducts.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\04ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\04ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\04ListOfProducts.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\04ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\04ListOfProducts.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\04ListOfProducts.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\refint\04ListOfProducts.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\04ListOfProducts.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\04ListOfProducts.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\04ListOfProducts\obj\Debug\net6.0\ref\04ListOfProducts.dll

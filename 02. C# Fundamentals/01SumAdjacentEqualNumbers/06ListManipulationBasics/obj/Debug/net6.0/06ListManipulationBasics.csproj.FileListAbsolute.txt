@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\bin\Debug\net6.0\06ListManipulationBasics.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\bin\Debug\net6.0\06ListManipulationBasics.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\bin\Debug\net6.0\06ListManipulationBasics.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\bin\Debug\net6.0\06ListManipulationBasics.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\bin\Debug\net6.0\06ListManipulationBasics.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\06ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\06ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\06ListManipulationBasics.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\06ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\06ListManipulationBasics.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\06ListManipulationBasics.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\refint\06ListManipulationBasics.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\06ListManipulationBasics.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\06ListManipulationBasics.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\02. C# Fundamentals\01SumAdjacentEqualNumbers\06ListManipulationBasics\obj\Debug\net6.0\ref\06ListManipulationBasics.dll

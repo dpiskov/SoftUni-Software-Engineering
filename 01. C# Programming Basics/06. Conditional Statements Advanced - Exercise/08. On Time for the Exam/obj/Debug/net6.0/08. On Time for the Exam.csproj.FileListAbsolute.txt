@@ -12,3 +12,18 @@ E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statemen
 E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.pdb
 E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.genruntimeconfig.cache
 E:\repos\01. Programming Basics - C#\Homework\C# Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\ref\08. On Time for the Exam.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net6.0\08. On Time for the Exam.exe
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net6.0\08. On Time for the Exam.deps.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net6.0\08. On Time for the Exam.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net6.0\08. On Time for the Exam.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\net6.0\08. On Time for the Exam.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\refint\08. On Time for the Exam.dll
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.pdb
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\08. On Time for the Exam.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Software-Engineering\01. C# Programming Basics\06. Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\net6.0\ref\08. On Time for the Exam.dll

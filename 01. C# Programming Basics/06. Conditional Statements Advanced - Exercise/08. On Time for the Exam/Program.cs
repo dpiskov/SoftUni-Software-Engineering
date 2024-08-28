@@ -14,7 +14,7 @@
             int totalArrivalMinutes = arriveHour * 60 + arriveMinutes;
 
             // On time
-            if (totalArrivalMinutes - 30 >= totalExamMinutes && totalArrivalMinutes <= totalExamMinutes || totalArrivalMinutes == totalExamMinutes)
+            if (totalArrivalMinutes >= totalExamMinutes - 30 && totalArrivalMinutes <= totalExamMinutes)
             {
                 Console.WriteLine("On time");
 
@@ -26,8 +26,9 @@
                     Console.WriteLine($"{minutes} minutes before the start");
                 }
             }
+
             // Early
-            else if (totalArrivalMinutes - 30 <= totalExamMinutes)
+            else if (totalArrivalMinutes < totalExamMinutes - 30)
             {
                 int difference = Math.Abs(totalArrivalMinutes - totalExamMinutes);
 
@@ -44,6 +45,25 @@
                     Console.WriteLine($"{difference:d2} minutes before the start");
                 }
 
+            }
+
+            // Late
+            else if (totalArrivalMinutes > totalExamMinutes)
+            {
+                Console.WriteLine("Late");
+
+                int difference = Math.Abs(totalArrivalMinutes - totalExamMinutes);
+
+                if (!(difference < 60))
+                {
+                    int hours = difference / 60;
+                    int minutes = difference % 60;
+                    Console.WriteLine($"{hours}:{minutes:d2} hours after the start");
+                }
+                else
+                {
+                    Console.WriteLine($"{difference:d2} minutes after the start");
+                }
             }
         }
     }

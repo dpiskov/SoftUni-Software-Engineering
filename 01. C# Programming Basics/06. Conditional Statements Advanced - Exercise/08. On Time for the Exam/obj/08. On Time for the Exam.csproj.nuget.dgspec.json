@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj": {}
   },
   "projects": {
-    "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj": {
+    "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj",
         "projectName": "08. On Time for the Exam",
-        "projectPath": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\repos\\01. Programming Basics - C#\\Homework\\C# Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

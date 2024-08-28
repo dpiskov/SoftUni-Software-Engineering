@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09. Ski Trip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac7868b2cfd1b9a2ea077b868fe95f5ed26170a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("09. Ski Trip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09. Ski Trip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
