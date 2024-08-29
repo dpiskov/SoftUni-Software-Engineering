@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{919D463B-543F-495E-9D5B-14C78BB3F5C9}|01OldBooks\\01OldBooks.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\01oldbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919D463B-543F-495E-9D5B-14C78BB3F5C9}|01OldBooks\\01OldBooks.csproj|solutionrelative:01oldbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4A27C3-04D2-4A9C-9866-C911EF2A5992}|07Moving\\07Moving.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\07moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4A27C3-04D2-4A9C-9866-C911EF2A5992}|07Moving\\07Moving.csproj|solutionrelative:07moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DDF16C3-A501-4627-8BCA-247730D7883D}|06Cake\\06Cake.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\06cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DDF16C3-A501-4627-8BCA-247730D7883D}|06Cake\\06Cake.csproj|solutionrelative:06cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D9A19-C83E-4608-89CA-E367B2772D2B}|05Walking\\05Walking.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\05walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D9A19-C83E-4608-89CA-E367B2772D2B}|05Walking\\05Walking.csproj|solutionrelative:05walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BD09FB-47F0-40B7-BDAD-B3F7AD28E60B}|04Walking\\04Walking.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\04walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BD09FB-47F0-40B7-BDAD-B3F7AD28E60B}|04Walking\\04Walking.csproj|solutionrelative:04walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A0C2DE-496B-4727-9D96-20EF4C5E6843}|03Vacation\\03Vacation.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\03vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A0C2DE-496B-4727-9D96-20EF4C5E6843}|03Vacation\\03Vacation.csproj|solutionrelative:03vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EED3641-20F3-49FD-B23C-B17B7B6D7F71}|02ExamPreparation\\02ExamPreparation.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\02exampreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EED3641-20F3-49FD-B23C-B17B7B6D7F71}|02ExamPreparation\\02ExamPreparation.csproj|solutionrelative:02exampreparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\07Moving\\Program.cs",
+              "RelativeDocumentMoniker": "07Moving\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\07Moving\\Program.cs",
+              "RelativeToolTip": "07Moving\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:01:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\06Cake\\Program.cs",
+              "RelativeDocumentMoniker": "06Cake\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\06Cake\\Program.cs",
+              "RelativeToolTip": "06Cake\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:01:04.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\05Walking\\Program.cs",
+              "RelativeDocumentMoniker": "05Walking\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\05Walking\\Program.cs",
+              "RelativeToolTip": "05Walking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:00:56.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\04Walking\\Program.cs",
+              "RelativeDocumentMoniker": "04Walking\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\04Walking\\Program.cs",
+              "RelativeToolTip": "04Walking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:00:48.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\03Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "03Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\03Vacation\\Program.cs",
+              "RelativeToolTip": "03Vacation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:00:39.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\02ExamPreparation\\Program.cs",
+              "RelativeDocumentMoniker": "02ExamPreparation\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\02ExamPreparation\\Program.cs",
+              "RelativeToolTip": "02ExamPreparation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:00:31.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\01OldBooks\\Program.cs",
+              "RelativeDocumentMoniker": "01OldBooks\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\01OldBooks\\Program.cs",
+              "RelativeToolTip": "01OldBooks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:00:21.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

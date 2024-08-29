@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\bin\Debug\net6.0\06VowelsSum.exe
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\bin\Debug\net6.0\06VowelsSum.deps.json
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\bin\Debug\net6.0\06VowelsSum.runtimeconfig.json
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\bin\Debug\net6.0\06VowelsSum.dll
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\bin\Debug\net6.0\06VowelsSum.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\obj\Debug\net6.0\06VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\obj\Debug\net6.0\06VowelsSum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\obj\Debug\net6.0\06VowelsSum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\obj\Debug\net6.0\06VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\obj\Debug\net6.0\06VowelsSum.dll
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\obj\Debug\net6.0\refint\06VowelsSum.dll
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\obj\Debug\net6.0\06VowelsSum.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\obj\Debug\net6.0\06VowelsSum.genruntimeconfig.cache
+C:\Users\Admin\source\repos\03ForLoopLab\06VowelsSum\obj\Debug\net6.0\ref\06VowelsSum.dll

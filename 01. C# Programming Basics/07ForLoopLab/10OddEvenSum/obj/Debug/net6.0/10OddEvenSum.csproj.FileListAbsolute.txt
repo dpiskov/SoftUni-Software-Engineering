@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\bin\Debug\net6.0\10OddEvenSum.exe
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\bin\Debug\net6.0\10OddEvenSum.deps.json
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\bin\Debug\net6.0\10OddEvenSum.runtimeconfig.json
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\bin\Debug\net6.0\10OddEvenSum.dll
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\bin\Debug\net6.0\10OddEvenSum.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\obj\Debug\net6.0\10OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\obj\Debug\net6.0\10OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\obj\Debug\net6.0\10OddEvenSum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\obj\Debug\net6.0\10OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\obj\Debug\net6.0\10OddEvenSum.dll
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\obj\Debug\net6.0\refint\10OddEvenSum.dll
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\obj\Debug\net6.0\10OddEvenSum.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\obj\Debug\net6.0\10OddEvenSum.genruntimeconfig.cache
+C:\Users\Admin\source\repos\03ForLoopLab\10OddEvenSum\obj\Debug\net6.0\ref\10OddEvenSum.dll

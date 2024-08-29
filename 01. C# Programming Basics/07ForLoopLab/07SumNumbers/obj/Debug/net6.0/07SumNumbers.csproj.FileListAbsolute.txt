@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\bin\Debug\net6.0\07SumNumbers.exe
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\bin\Debug\net6.0\07SumNumbers.deps.json
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\bin\Debug\net6.0\07SumNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\bin\Debug\net6.0\07SumNumbers.dll
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\bin\Debug\net6.0\07SumNumbers.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\obj\Debug\net6.0\07SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\obj\Debug\net6.0\07SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\obj\Debug\net6.0\07SumNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\obj\Debug\net6.0\07SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\obj\Debug\net6.0\07SumNumbers.dll
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\obj\Debug\net6.0\refint\07SumNumbers.dll
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\obj\Debug\net6.0\07SumNumbers.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\obj\Debug\net6.0\07SumNumbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\03ForLoopLab\07SumNumbers\obj\Debug\net6.0\ref\07SumNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\bin\Debug\net6.0\09LeftAndRightSum.exe
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\bin\Debug\net6.0\09LeftAndRightSum.deps.json
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\bin\Debug\net6.0\09LeftAndRightSum.runtimeconfig.json
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\bin\Debug\net6.0\09LeftAndRightSum.dll
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\bin\Debug\net6.0\09LeftAndRightSum.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\obj\Debug\net6.0\09LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\obj\Debug\net6.0\09LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\obj\Debug\net6.0\09LeftAndRightSum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\obj\Debug\net6.0\09LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\obj\Debug\net6.0\09LeftAndRightSum.dll
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\obj\Debug\net6.0\refint\09LeftAndRightSum.dll
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\obj\Debug\net6.0\09LeftAndRightSum.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\obj\Debug\net6.0\09LeftAndRightSum.genruntimeconfig.cache
+C:\Users\Admin\source\repos\03ForLoopLab\09LeftAndRightSum\obj\Debug\net6.0\ref\09LeftAndRightSum.dll

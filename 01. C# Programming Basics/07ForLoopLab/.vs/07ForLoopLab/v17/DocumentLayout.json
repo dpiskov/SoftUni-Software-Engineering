@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\03ForLoopLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{850637A0-571D-4250-94A1-9520472F2BC7}|03Numbers1-NWithStep3\\03Numbers1-NWithStep3.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\03forlooplab\\03numbers1-nwithstep3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850637A0-571D-4250-94A1-9520472F2BC7}|03Numbers1-NWithStep3\\03Numbers1-NWithStep3.csproj|solutionrelative:03numbers1-nwithstep3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6718C052-B771-45F6-A122-D70DF3B65FCE}|02NumbersN-1\\02NumbersN-1.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\03forlooplab\\02numbersn-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6718C052-B771-45F6-A122-D70DF3B65FCE}|02NumbersN-1\\02NumbersN-1.csproj|solutionrelative:02numbersn-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA5838F-DF81-41AF-896F-38E6BFE3BFD0}|01NumbersFrom1To100\\01NumbersFrom1To100.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\03forlooplab\\01numbersfrom1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA5838F-DF81-41AF-896F-38E6BFE3BFD0}|01NumbersFrom1To100\\01NumbersFrom1To100.csproj|solutionrelative:01numbersfrom1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B005D2F-D3BF-4857-A54B-E989F8E073B3}|10OddEvenSum\\10OddEvenSum.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\03forlooplab\\10oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B005D2F-D3BF-4857-A54B-E989F8E073B3}|10OddEvenSum\\10OddEvenSum.csproj|solutionrelative:10oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\03ForLoopLab\\03Numbers1-NWithStep3\\Program.cs",
+              "RelativeDocumentMoniker": "03Numbers1-NWithStep3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\03ForLoopLab\\03Numbers1-NWithStep3\\Program.cs",
+              "RelativeToolTip": "03Numbers1-NWithStep3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:21:03.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\03ForLoopLab\\02NumbersN-1\\Program.cs",
+              "RelativeDocumentMoniker": "02NumbersN-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\03ForLoopLab\\02NumbersN-1\\Program.cs",
+              "RelativeToolTip": "02NumbersN-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:20:54.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\03ForLoopLab\\01NumbersFrom1To100\\Program.cs",
+              "RelativeDocumentMoniker": "01NumbersFrom1To100\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\03ForLoopLab\\01NumbersFrom1To100\\Program.cs",
+              "RelativeToolTip": "01NumbersFrom1To100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:20:47.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\03ForLoopLab\\10OddEvenSum\\Program.cs",
+              "RelativeDocumentMoniker": "10OddEvenSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\03ForLoopLab\\10OddEvenSum\\Program.cs",
+              "RelativeToolTip": "10OddEvenSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:02:12.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

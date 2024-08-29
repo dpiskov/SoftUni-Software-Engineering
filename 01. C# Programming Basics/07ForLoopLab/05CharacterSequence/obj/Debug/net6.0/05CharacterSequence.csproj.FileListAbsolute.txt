@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\bin\Debug\net6.0\05CharacterSequence.exe
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\bin\Debug\net6.0\05CharacterSequence.deps.json
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\bin\Debug\net6.0\05CharacterSequence.runtimeconfig.json
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\bin\Debug\net6.0\05CharacterSequence.dll
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\bin\Debug\net6.0\05CharacterSequence.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\obj\Debug\net6.0\05CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\obj\Debug\net6.0\05CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\obj\Debug\net6.0\05CharacterSequence.AssemblyInfo.cs
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\obj\Debug\net6.0\05CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\obj\Debug\net6.0\05CharacterSequence.dll
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\obj\Debug\net6.0\refint\05CharacterSequence.dll
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\obj\Debug\net6.0\05CharacterSequence.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\obj\Debug\net6.0\05CharacterSequence.genruntimeconfig.cache
+C:\Users\Admin\source\repos\03ForLoopLab\05CharacterSequence\obj\Debug\net6.0\ref\05CharacterSequence.dll

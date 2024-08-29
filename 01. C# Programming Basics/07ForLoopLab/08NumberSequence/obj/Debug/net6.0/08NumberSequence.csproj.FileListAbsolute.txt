@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\bin\Debug\net6.0\08NumberSequence.exe
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\bin\Debug\net6.0\08NumberSequence.deps.json
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\bin\Debug\net6.0\08NumberSequence.runtimeconfig.json
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\bin\Debug\net6.0\08NumberSequence.dll
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\bin\Debug\net6.0\08NumberSequence.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\obj\Debug\net6.0\08NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\obj\Debug\net6.0\08NumberSequence.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\obj\Debug\net6.0\08NumberSequence.AssemblyInfo.cs
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\obj\Debug\net6.0\08NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\obj\Debug\net6.0\08NumberSequence.dll
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\obj\Debug\net6.0\refint\08NumberSequence.dll
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\obj\Debug\net6.0\08NumberSequence.pdb
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\obj\Debug\net6.0\08NumberSequence.genruntimeconfig.cache
+C:\Users\Admin\source\repos\03ForLoopLab\08NumberSequence\obj\Debug\net6.0\ref\08NumberSequence.dll
