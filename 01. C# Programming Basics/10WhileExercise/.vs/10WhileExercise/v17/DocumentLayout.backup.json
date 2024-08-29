@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{919D463B-543F-495E-9D5B-14C78BB3F5C9}|01OldBooks\\01OldBooks.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\01oldbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919D463B-543F-495E-9D5B-14C78BB3F5C9}|01OldBooks\\01OldBooks.csproj|solutionrelative:01oldbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC4A27C3-04D2-4A9C-9866-C911EF2A5992}|07Moving\\07Moving.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\07moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4A27C3-04D2-4A9C-9866-C911EF2A5992}|07Moving\\07Moving.csproj|solutionrelative:07moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D9A19-C83E-4608-89CA-E367B2772D2B}|05Walking\\05Walking.csproj|c:\\users\\admin\\desktop\\softuni-software-engineering\\01. c# programming basics\\10whileexercise\\05walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2D9A19-C83E-4608-89CA-E367B2772D2B}|05Walking\\05Walking.csproj|solutionrelative:05walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +40,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\01OldBooks\\Program.cs",
-              "RelativeDocumentMoniker": "01OldBooks\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\01OldBooks\\Program.cs",
-              "RelativeToolTip": "01OldBooks\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\07Moving\\Program.cs",
+              "RelativeDocumentMoniker": "07Moving\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\07Moving\\Program.cs",
+              "RelativeToolTip": "07Moving\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T05:00:21.255Z",
+              "WhenOpened": "2024-08-29T05:01:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\05Walking\\Program.cs",
+              "RelativeDocumentMoniker": "05Walking\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SoftUni-Software-Engineering\\01. C# Programming Basics\\10WhileExercise\\05Walking\\Program.cs",
+              "RelativeToolTip": "05Walking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:00:56.072Z",
               "EditorCaption": ""
             }
           ]
